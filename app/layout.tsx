@@ -4,7 +4,7 @@ import './globals.css';
 
 const geist = Geist({ variable: '--font-geist-sans', subsets: ['latin'] });
 export const metadata: Metadata = {
-  metadataBase: new URL('https://atlas-educa-periodicos.bouncy-pond-7076.chatgpt.site'),
+  metadataBase: new URL('https://atlas-educa-periodicos.andsonandre.chatgpt.site'),
   title: 'Atlas Educ@ — Metadados dos periódicos ativos',
   description: 'Painel de auditoria com fascículos e artigos dos periódicos ativos indexados no Educ@.',
   openGraph: {
