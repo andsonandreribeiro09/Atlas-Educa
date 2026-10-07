@@ -1,0 +1,1321 @@
+{
+  "generatedAt": "2026-10-07T18:03:11.319Z",
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "totalJournals": 61,
+  "summary": [
+    {
+      "year": 2023,
+      "educaArticles": 1562,
+      "journalsWithData": 30,
+      "medianArticles": 48,
+      "comparedJournals": 29,
+      "officialArticles": 1610,
+      "missingCandidates": 150
+    },
+    {
+      "year": 2024,
+      "educaArticles": 1523,
+      "journalsWithData": 29,
+      "medianArticles": 48,
+      "comparedJournals": 28,
+      "officialArticles": 1463,
+      "missingCandidates": 131
+    },
+    {
+      "year": 2025,
+      "educaArticles": 1131,
+      "journalsWithData": 27,
+      "medianArticles": 38,
+      "comparedJournals": 28,
+      "officialArticles": 1565,
+      "missingCandidates": 524
+    }
+  ],
+  "journals": [
+    {
+      "id": "2178-5201",
+      "title": "Acta Scientiarum. Education",
+      "publisher": "Editora da Universidade Estadual de Maringá - EDUEM",
+      "educa": {
+        "2023": 51,
+        "2024": 50,
+        "2025": 50
+      },
+      "official": {
+        "2023": 51,
+        "2024": 50,
+        "2025": 50
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1414-4077",
+      "title": "Avaliação: Revista da Avaliação da Educação Superior (Campinas)",
+      "publisher": "Publicação da Rede de Avaliação Institucional da Educação Superior (RAIES), da Universidade Estadual de Campinas (UNICAMP) e da Universidade de Sorocaba (UNISO)",
+      "educa": {
+        "2023": 30,
+        "2024": 33,
+        "2025": 4
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1982-7806",
+      "title": "Cadernos de História da Educação",
+      "publisher": "EDUFU - Editora da Universidade Federal de Uberlândia",
+      "educa": {
+        "2023": 68,
+        "2024": 53,
+        "2025": 47
+      },
+      "official": {
+        "2023": 72,
+        "2024": 53,
+        "2025": 47
+      },
+      "missing": {
+        "2023": 2,
+        "2024": 0,
+        "2025": 0
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "0100-1574",
+      "title": "Cadernos de Pesquisa",
+      "publisher": "Fundação Carlos Chagas",
+      "educa": {
+        "2023": 48,
+        "2024": 51,
+        "2025": 45
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1984-5987",
+      "title": "Childhood & Philosophy",
+      "publisher": "Universidade do Estado do Rio de Janeiro",
+      "educa": {
+        "2023": 40,
+        "2024": 37,
+        "2025": 9
+      },
+      "official": {
+        "2023": 41,
+        "2024": 39,
+        "2025": 47
+      },
+      "missing": {
+        "2023": 1,
+        "2024": 2,
+        "2025": 40
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1516-7313",
+      "title": "Ciência & Educação (Bauru)",
+      "publisher": "Universidade Estadual Paulista (UNESP)",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2178-4612",
+      "title": "Conjectura: Filosofia e Educação",
+      "publisher": "Universidade de Caxias do Sul",
+      "educa": {
+        "2023": 40,
+        "2024": 21,
+        "2025": 10
+      },
+      "official": {
+        "2023": 40,
+        "2024": 21,
+        "2025": 27
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 0,
+        "2025": 17
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1984-7114",
+      "title": "Contrapontos",
+      "publisher": "Univali",
+      "educa": {
+        "2023": 14,
+        "2024": 17,
+        "2025": 23
+      },
+      "official": {
+        "2023": 14,
+        "2024": 17,
+        "2025": 39
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 0,
+        "2025": 16
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1983-9278",
+      "title": "Eccos Revista Científica",
+      "publisher": "Universidade Nove de Julho - UNINOVE",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1981-2582",
+      "title": "Educação",
+      "publisher": "Pontifícia Universidade Católica do Rio Grande do Sul",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2448-3583",
+      "title": "Educação & Formação",
+      "publisher": "Universidade Estadual do Ceará",
+      "educa": {
+        "2023": 48,
+        "2024": 40,
+        "2025": 43
+      },
+      "official": {
+        "2023": 48,
+        "2024": 40,
+        "2025": 43
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1982-596x",
+      "title": "Educação e Filosofia",
+      "publisher": "Universidade Federal de Uberlândia",
+      "educa": {
+        "2023": 55,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": 53,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": 0,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1517-9702",
+      "title": "Educação e Pesquisa",
+      "publisher": "Faculdade de Educação da Universidade de São Paulo",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "0100-3143",
+      "title": "Educação e Realidade",
+      "publisher": "Universidade Federal do Rio Grande do Sul - Faculdade de Educação",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "0102-4698",
+      "title": "Educação em Revista",
+      "publisher": "Faculdade de Educação da Universidade Federal de Minas Gerais",
+      "educa": {
+        "2023": 100,
+        "2024": 94,
+        "2025": 62
+      },
+      "official": {
+        "2023": 99,
+        "2024": 81,
+        "2025": 65
+      },
+      "missing": {
+        "2023": 2,
+        "2024": 0,
+        "2025": 1
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2526-6136",
+      "title": "Educação Matemática Debate",
+      "publisher": "Universidade Estadual de Montes Claros",
+      "educa": {
+        "2023": 30,
+        "2024": 34,
+        "2025": 70
+      },
+      "official": {
+        "2023": 30,
+        "2024": 34,
+        "2025": 70
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1984-6444",
+      "title": "Educação UFSM",
+      "publisher": "Universidade Federal de Santa Maria",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1981-8106",
+      "title": "Educação: Teoria e Prática",
+      "publisher": "UNESP - Universidade Estadual Paulista - Instituto de Biociências - Departamento de Educação",
+      "educa": {
+        "2023": 57,
+        "2024": 70,
+        "2025": 80
+      },
+      "official": {
+        "2023": 58,
+        "2024": 71,
+        "2025": 78
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "0104-4060",
+      "title": "Educar em Revista",
+      "publisher": "Setor de Educação da Universidade Federal do Paraná",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1983-2117",
+      "title": "Ensaio Pesquisa em Educação em Ciências",
+      "publisher": "Universidade Federal de Minas Gerais",
+      "educa": {
+        "2023": 30,
+        "2024": 32,
+        "2025": 33
+      },
+      "official": {
+        "2023": 31,
+        "2024": 32,
+        "2025": 33
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "0104-4036",
+      "title": "Ensaio: Avaliação e Políticas Públicas em Educação",
+      "publisher": "Fundação CESGRANRIO",
+      "educa": {
+        "2023": 55,
+        "2024": 57,
+        "2025": 54
+      },
+      "official": {
+        "2023": 51,
+        "2024": 56,
+        "2025": 49
+      },
+      "missing": {
+        "2023": 2,
+        "2024": 9,
+        "2025": 4
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1983-1730",
+      "title": "Ensino em Re-Vista",
+      "publisher": "Universidade Federal de Uberlândia",
+      "educa": {
+        "2023": 46,
+        "2024": 48,
+        "2025": 29
+      },
+      "official": {
+        "2023": 46,
+        "2024": 49,
+        "2025": 40
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 1,
+        "2025": 10
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "0103-6831",
+      "title": "Estudos em Avaliação Educacional",
+      "publisher": "Fundação Carlos Chagas",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1676-2592",
+      "title": "ETD Educação Temática Digital",
+      "publisher": "Universidade Estadual de Campinas - UNICAMP",
+      "educa": {
+        "2023": 72,
+        "2024": 63,
+        "2025": null
+      },
+      "official": {
+        "2023": 73,
+        "2024": 65,
+        "2025": null
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 2,
+        "2025": null
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2236-5907",
+      "title": "Fineduca: Revista de Financiamento da Educação",
+      "publisher": "Associação Nacional de Pesquisa em Financiamento da Educação",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2236-3459",
+      "title": "História da Educação",
+      "publisher": "Associação Sul-Rio-Grandense de Pesquisadores em História da Educação",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "0101-7136",
+      "title": "Inter-Ação",
+      "publisher": "Universidade Federal de Goiás",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1981-1969",
+      "title": "Jornal de Políticas Educacionais",
+      "publisher": "Núcleo de Políticas Educacionais da Universidade Federal do Paraná",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2526-8449",
+      "title": "Linguagens, Educação e Sociedade (LES)",
+      "publisher": "Universidade Federal do Piauí",
+      "educa": {
+        "2023": null,
+        "2024": 76,
+        "2025": 18
+      },
+      "official": {
+        "2023": null,
+        "2024": 0,
+        "2025": 0
+      },
+      "missing": {
+        "2023": null,
+        "2024": 0,
+        "2025": 0
+      },
+      "comparisonStatus": "partial"
+    },
+    {
+      "id": "1981-0431",
+      "title": "Linhas Críticas",
+      "publisher": "Universidade de Brasília",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2526-7647",
+      "title": "Obutchénie. Revista de Didática e Psicologia Pedagógica",
+      "publisher": "Universidade Federal de Uberlândia",
+      "educa": {
+        "2023": 40,
+        "2024": 42,
+        "2025": null
+      },
+      "official": {
+        "2023": 53,
+        "2024": 48,
+        "2025": 41
+      },
+      "missing": {
+        "2023": 12,
+        "2024": 3,
+        "2025": 41
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1984-0187",
+      "title": "Olhar de Professor",
+      "publisher": "Universidade Estadual de Ponta Grossa",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": 38
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": 51
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": 13
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2675-519X",
+      "title": "Práticas Educativas, Memórias e Oralidades",
+      "publisher": "Universidade Estadual do Ceará",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": 32
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": 117
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": 82
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1809-4309",
+      "title": "Práxis Educativa",
+      "publisher": "Programa de Pós-Graduação em Educação - Ponta Grossa",
+      "educa": {
+        "2023": 65,
+        "2024": 110,
+        "2025": 99
+      },
+      "official": {
+        "2023": 83,
+        "2024": 122,
+        "2025": 99
+      },
+      "missing": {
+        "2023": 16,
+        "2024": 13,
+        "2025": 1
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2175-3520",
+      "title": "Psicologia da Educação",
+      "publisher": "Pontifícia Universidade Católica de São Paulo. Programa de Estudos Pós-Graduados em Educação: Psicologia da Educação",
+      "educa": {
+        "2023": 10,
+        "2024": 12,
+        "2025": 23
+      },
+      "official": {
+        "2023": 11,
+        "2024": 11,
+        "2025": 26
+      },
+      "missing": {
+        "2023": 1,
+        "2024": 0,
+        "2025": 2
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1982-9949",
+      "title": "Reflexão e Ação",
+      "publisher": "Editora da Universidade de Santa Cruz do Sul - EDUNISC",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2318-1338",
+      "title": "Regae: Revista de Gestão e Avaliação Educacional",
+      "publisher": "Universidade Federal de Santa Maria",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1413-2478",
+      "title": "Revista Brasileira de Educação",
+      "publisher": "ANPEd - Associação Nacional de Pós-Graduação e Pesquisa em Educação",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1413-6538",
+      "title": "Revista Brasileira de Educação Especial",
+      "publisher": "Associação Brasileira de Pesquisadores em Educação Especial - ABPEE",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1981-5271",
+      "title": "Revista Brasileira de Educação Médica",
+      "publisher": "Associação Brasileira de Educação Médica",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2176-6681",
+      "title": "Revista Brasileira de Estudos Pedagógicos",
+      "publisher": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+      "educa": {
+        "2023": 34,
+        "2024": 23,
+        "2025": 27
+      },
+      "official": {
+        "2023": 35,
+        "2024": 36,
+        "2025": 35
+      },
+      "missing": {
+        "2023": 1,
+        "2024": 13,
+        "2025": 8
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2238-0094",
+      "title": "Revista Brasileira de História da Educação",
+      "publisher": "Sociedade Brasileira de História da Educação",
+      "educa": {
+        "2023": 46,
+        "2024": 45,
+        "2025": 12
+      },
+      "official": {
+        "2023": 47,
+        "2024": 46,
+        "2025": 48
+      },
+      "missing": {
+        "2023": 1,
+        "2024": 1,
+        "2025": 36
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2447-4193",
+      "title": "Revista Brasileira de Política e Administração da Educação",
+      "publisher": "Associação Nacional de Política e Administração da Educação",
+      "educa": {
+        "2023": 49,
+        "2024": 41,
+        "2025": null
+      },
+      "official": {
+        "2023": 50,
+        "2024": 42,
+        "2025": 49
+      },
+      "missing": {
+        "2023": 1,
+        "2024": 1,
+        "2025": 49
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "0104-7043",
+      "title": "Revista da FAEEBA: Educação e Contemporaneidade",
+      "publisher": "Universidade do Estado da Bahia",
+      "educa": {
+        "2023": 73,
+        "2024": 36,
+        "2025": 36
+      },
+      "official": {
+        "2023": 73,
+        "2024": 70,
+        "2025": 73
+      },
+      "missing": {
+        "2023": 1,
+        "2024": 34,
+        "2025": 35
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2238-2097",
+      "title": "Revista de Educação Pública",
+      "publisher": "Universidade Federal de Mato Grosso, Instituto de Educação, Programa de Pós-Graduação em Educação",
+      "educa": {
+        "2023": 39,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": 43,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": 4,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1519-3993",
+      "title": "Revista de Educação PUC-Campinas",
+      "publisher": "Programa de Pós-Graduação em Educação da Pontifícia Universidade Católica de Campinas",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2179-426X",
+      "title": "Revista de Ensino de Ciências e Matemática",
+      "publisher": "Universidade Cruzeiro do Sul (UCS)",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1981-416x",
+      "title": "Revista Diálogo Educacional",
+      "publisher": "Pontifícia Universidade Católica do Paraná (PUCPR)",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1809-3876",
+      "title": "Revista e-Curriculum",
+      "publisher": "Pontifícia Universidade Católica de São Paulo",
+      "educa": {
+        "2023": 104,
+        "2024": 129,
+        "2025": 95
+      },
+      "official": {
+        "2023": 106,
+        "2024": 129,
+        "2025": 95
+      },
+      "missing": {
+        "2023": 2,
+        "2024": 0,
+        "2025": 0
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2238-1279",
+      "title": "Revista Educação e Cultura Contemporânea",
+      "publisher": "Universidade Estácio de Sá - Programa de Pós-graduação em Educação",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": 64,
+        "2024": 52,
+        "2025": 76
+      },
+      "missing": {
+        "2023": 64,
+        "2024": 52,
+        "2025": 76
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2238-8346",
+      "title": "Revista Educação e Políticas em Debate",
+      "publisher": "Universidade Federal de Uberlândia - Faculdade de Educação - FACED",
+      "educa": {
+        "2023": 71,
+        "2024": 79,
+        "2025": 5
+      },
+      "official": {
+        "2023": 72,
+        "2024": 81,
+        "2025": 84
+      },
+      "missing": {
+        "2023": 1,
+        "2024": 0,
+        "2025": 79
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "0102-7735",
+      "title": "Revista Educação em Questão",
+      "publisher": "Universidade Federal do Rio Grande do Norte",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1984-686X",
+      "title": "Revista Educação Especial (Online)",
+      "publisher": "Universidade Federal de Santa Maria",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "1982-7199",
+      "title": "Revista Eletrônica de Educação",
+      "publisher": "Universidade Federal de São Carlos, Programa de Pós-Graduação em Educação",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "0104-026x",
+      "title": "Revista Estudos Feministas",
+      "publisher": "Centro de Filosofia e Ciências Humanas e Centro de Comunicação e Expressão da Universidade Federal de Santa Catarina",
+      "educa": {
+        "2023": 95,
+        "2024": 71,
+        "2025": 77
+      },
+      "official": {
+        "2023": 78,
+        "2024": 58,
+        "2025": 60
+      },
+      "missing": {
+        "2023": 1,
+        "2024": 0,
+        "2025": 1
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2237-9460",
+      "title": "Revista Exitus",
+      "publisher": "Universidade Federal do Oeste do Pará",
+      "educa": {
+        "2023": 78,
+        "2024": 67,
+        "2025": 58
+      },
+      "official": {
+        "2023": 78,
+        "2024": 68,
+        "2025": 70
+      },
+      "missing": {
+        "2023": 0,
+        "2024": 0,
+        "2025": 12
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2446-9424",
+      "title": "Revista Internacional de Educação Superior",
+      "publisher": "Universidade Estadual de Campinas Faculdade de Educação Grupo de Estudos e Pesquisas em Educação Superior",
+      "educa": {
+        "2023": 46,
+        "2024": 42,
+        "2025": null
+      },
+      "official": {
+        "2023": 50,
+        "2024": 42,
+        "2025": null
+      },
+      "missing": {
+        "2023": 4,
+        "2024": 0,
+        "2025": null
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "2178-2679",
+      "title": "Revista Práxis Educacional",
+      "publisher": "Universidade Estadual do Sudoeste da Bahia",
+      "educa": {
+        "2023": 28,
+        "2024": 50,
+        "2025": 52
+      },
+      "official": {
+        "2023": 60,
+        "2024": 50,
+        "2025": 53
+      },
+      "missing": {
+        "2023": 34,
+        "2024": 0,
+        "2025": 1
+      },
+      "comparisonStatus": "complete"
+    },
+    {
+      "id": "1982-0305",
+      "title": "Revista Teias",
+      "publisher": "Programa de Pós-Graduação em Educação - ProPEd/UERJ",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2177-6059",
+      "title": "Roteiro",
+      "publisher": "Universidade do Oeste de Santa Catarina",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    },
+    {
+      "id": "2318-1982",
+      "title": "Série-Estudos",
+      "publisher": "Universidade Católica Dom Bosco",
+      "educa": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "official": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "missing": {
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "comparisonStatus": null
+    }
+  ]
+}

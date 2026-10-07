@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import data from './journals.json';
+import metricsData from './metrics.json';
 
 type BaseJournal = (typeof data.journals)[number];
 type YearCount = { year: number; articleCount: number; issueCount: number };
@@ -16,6 +17,8 @@ type JournalDetail = { articleCount: number; firstYear: number | null; latestYea
 type MissingArticle = { id: string; title: string; authors: string[]; date: string | null; year: number; volume: string | null; number: string | null; doi: string | null; url: string | null; source: string | null };
 type ComparisonDetail = { status: 'complete' | 'partial'; comparedAt: string; officialSource: { name: string; url: string; oaiUrl: string }; educaCollectionStatus?: 'complete' | 'partial'; officialCollectionStatus?: 'complete' | 'partial'; educaCoverageStart: number; educaCoverageEnd: number | null; officialCoverageStart?: number; officialCoverageEnd?: number; officialArticleCount: number; officialInCoverageCount: number; educaArticleCount: number; matchedCount: number; missingCount: number; outsideCoverageCount: number; matchingMethod: string; missing: MissingArticle[] };
 type SortKey = 'title' | 'issueCount' | 'articleCount' | 'firstIndexedYear' | 'latestIndexedYear';
+type MetricYear = 2023 | 2024 | 2025;
+type MetricsDataset = { generatedAt: string; years: MetricYear[]; totalJournals: number; summary: { year: MetricYear; educaArticles: number; journalsWithData: number; medianArticles: number; comparedJournals: number; officialArticles: number; missingCandidates: number }[]; journals: { id: string; title: string; publisher: string | null; educa: Record<string, number | null>; official: Record<string, number | null>; missing: Record<string, number | null>; comparisonStatus: 'complete' | 'partial' | null }[] };
 const formatNumber = new Intl.NumberFormat('pt-BR');
 
 function show(input: unknown, fallback = 'Não informado') {
@@ -117,6 +120,8 @@ export default function Home() {
       />
     </section>
 
+    <MetricsExplorer journals={journals} onSelectJournal={setSelected} />
+
     <section className="mx-auto grid max-w-[1480px] gap-5 px-5 py-8 lg:grid-cols-[.72fr_1.28fr] lg:px-10">
       <article className="panel"><div className="panel-heading"><div><p className="eyebrow">Distribuição temporal</p><h2>Início da indexação por década</h2></div><span className="tag">{years.length} identificados</span></div><div className="mt-6 space-y-4">{decades.map(({ decade, count, width }) => <div key={decade} className="grid grid-cols-[54px_1fr_26px] items-center gap-3 text-sm"><span className="font-medium text-[#40534d]">{decade}</span><span className="h-2.5 overflow-hidden rounded-full bg-[#e8ece6]"><span className="block h-full rounded-full bg-[#2d705d]" style={{ width }} /></span><span className="text-right font-semibold tabular-nums">{count}</span></div>)}{!decades.length && <p className="empty-copy">Os anos de início ainda estão em apuração.</p>}</div></article>
       <article className="panel"><div className="panel-heading"><div><p className="eyebrow">Cobertura dos dados</p><h2>O que este painel confirma</h2></div></div><div className="mt-6 grid gap-3 sm:grid-cols-3"><Coverage label="Status" value="100%" detail={`${journals.length} títulos ativos`} /><Coverage label="Fascículos" value="100%" detail={`${formatNumber.format(totalIssues)} registros`} /><Coverage label="Artigos" value={`${Math.round((counted.length / journals.length) * 100)}%`} detail="Registros do tipo artigo" muted={counted.length < journals.length} /></div>{completeMetadata < journals.length && <div className="mt-4 rounded-xl bg-[#fff4e8] px-4 py-3 text-sm text-[#8a4a2d]">Alguns detalhes estão temporariamente indisponíveis na fonte; esses campos aparecem como “não informado”.</div>}</article>
@@ -141,6 +146,66 @@ export default function Home() {
     {selected && <JournalDrawer journal={selected} onClose={() => setSelected(null)} />}
     <footer className="border-t border-[#17332c]/10 bg-[#e9eee8] px-5 py-7 text-sm text-[#66756f] lg:px-10"><div className="mx-auto flex max-w-[1480px] flex-col justify-between gap-2 sm:flex-row"><p>Artigos coletados do repositório OAI do Educ@ — Fundação Carlos Chagas.</p><p>Base para auditoria · {new Date(data.source.capturedAt).toLocaleDateString('pt-BR')}</p></div></footer>
   </main>;
+}
+
+function MetricsExplorer({ journals, onSelectJournal }: { journals: Journal[]; onSelectJournal: (journal: Journal) => void }) {
+  const metrics = metricsData as MetricsDataset;
+  const [year, setYear] = useState<MetricYear>(2025);
+  const key = String(year);
+  const summary = metrics.summary.find((item) => item.year === year)!;
+  const journalById = useMemo(() => new Map(journals.map((journal) => [journal.id, journal])), [journals]);
+  const ranked = useMemo(() => metrics.journals
+    .filter((journal) => journal.educa[key] !== null)
+    .sort((a, b) => (b.educa[key] ?? 0) - (a.educa[key] ?? 0)), [key, metrics.journals]);
+  const top = ranked.slice(0, 10);
+  const maxArticles = Math.max(1, ...top.map((journal) => journal.educa[key] ?? 0));
+  const cohort = metrics.journals.filter((journal) => metrics.years.every((item) => journal.educa[String(item)] !== null));
+  const cohortTotals = metrics.years.map((item) => ({
+    year: item,
+    total: cohort.reduce((sum, journal) => sum + (journal.educa[String(item)] ?? 0), 0),
+  }));
+  const maxCohort = Math.max(1, ...cohortTotals.map((item) => item.total));
+
+  function exportMetricsCsv() {
+    const header = ['Periódico', 'Instituição/Editora', 'Educ@ 2023', 'Educ@ 2024', 'Educ@ 2025', 'Ausentes 2023', 'Ausentes 2024', 'Ausentes 2025', 'Situação do cruzamento'];
+    const rows = metrics.journals.map((journal) => [journal.title, journal.publisher, journal.educa['2023'], journal.educa['2024'], journal.educa['2025'], journal.missing['2023'], journal.missing['2024'], journal.missing['2025'], journal.comparisonStatus ?? 'não cruzado']);
+    downloadCsv('metricas-periodicos-2023-2025.csv', [header, ...rows]);
+  }
+
+  return <section className="metrics-section mx-auto max-w-[1480px] px-5 pt-8 lg:px-10">
+    <div className="metrics-shell">
+      <div className="metrics-header">
+        <div><p className="eyebrow">Recorte dos três anos anteriores a 2026</p><h2>Métricas 2023–2025</h2><p>Compare produção indexada, cobertura da coleta e possíveis lacunas entre os sites oficiais das revistas e o Educ@.</p></div>
+        <div className="metrics-actions"><div className="year-switch" aria-label="Selecionar ano">{metrics.years.map((item) => <button aria-pressed={year === item} className={year === item ? 'is-active' : ''} key={item} onClick={() => setYear(item)} type="button">{item}</button>)}</div><button className="metrics-download" onClick={exportMetricsCsv} type="button">Baixar métricas CSV</button></div>
+      </div>
+
+      <div className="metrics-kpis">
+        <MetricInsight label={`Artigos no Educ@ em ${year}`} value={formatNumber.format(summary.educaArticles)} detail={`Somados em ${summary.journalsWithData} revistas com dados`} />
+        <MetricInsight label="Revistas com dados no ano" value={`${summary.journalsWithData}/${metrics.totalJournals}`} detail="Ausência de dado não é contabilizada como zero" />
+        <MetricInsight label="Artigos nos sites oficiais" value={formatNumber.format(summary.officialArticles)} detail={`${summary.comparedJournals} revistas já cruzadas`} />
+        <MetricInsight label="Candidatos ausentes no Educ@" value={formatNumber.format(summary.missingCandidates)} detail="Exigem validação artigo por artigo" alert />
+      </div>
+
+      <div className="metrics-grid">
+        <article className="metrics-card">
+          <div className="metrics-card-heading"><div><p className="eyebrow">Ranking do ano</p><h3>Revistas com mais artigos no Educ@ em {year}</h3></div><span className="tag">Top 10</span></div>
+          <div className="ranking-list">{top.map((item, index) => {
+            const journal = journalById.get(item.id);
+            const count = item.educa[key] ?? 0;
+            return <button disabled={!journal} key={item.id} onClick={() => journal && onSelectJournal(journal)} type="button"><span className="ranking-position">{index + 1}</span><span className="ranking-title">{item.title}<small>{item.publisher ?? 'Instituição não informada'}</small></span><span className="ranking-track"><i style={{ width: `${(count / maxArticles) * 100}%` }} /></span><strong>{formatNumber.format(count)}</strong></button>;
+          })}</div>
+        </article>
+
+        <article className="metrics-card metrics-trend-card">
+          <div className="metrics-card-heading"><div><p className="eyebrow">Comparação consistente</p><h3>Evolução das mesmas {cohort.length} revistas</h3></div></div>
+          <p className="metrics-help">Este gráfico usa somente as revistas que possuem dados nos três anos, evitando comparar universos diferentes.</p>
+          <div className="cohort-chart">{cohortTotals.map((item) => <div key={item.year}><span>{item.year}</span><span className="cohort-track"><i style={{ width: `${(item.total / maxCohort) * 100}%` }} /></span><strong>{formatNumber.format(item.total)}</strong></div>)}</div>
+          <div className="metrics-reading"><strong>Como ler</strong><p>Os números anuais mostram artigos efetivamente registrados no Educ@. Os “candidatos ausentes” vêm do cruzamento com as bases oficiais e ainda precisam de conferência antes de serem tratados como falha de indexação.</p></div>
+          <p className="metrics-updated">Métricas geradas a partir dos dados salvos em {new Date(metrics.generatedAt).toLocaleString('pt-BR')}.</p>
+        </article>
+      </div>
+    </div>
+  </section>;
 }
 
 function phaseLabel(phase: string | null | undefined) {
@@ -262,6 +327,7 @@ function JournalDrawer({ journal, onClose }: { journal: Journal; onClose: () => 
   </aside></div>;
 }
 
+function MetricInsight({ label, value, detail, alert = false }: { label: string; value: string; detail: string; alert?: boolean }) { return <article className={`metric-insight ${alert ? 'metric-insight-alert' : ''}`}><p>{label}</p><strong>{value}</strong><span>{detail}</span></article>; }
 function Metric({ label, value, note, tone }: { label: string; value: string; note?: string; tone: 'green' | 'cream' | 'orange' }) { return <article className={`metric metric-${tone}`}><p>{label}</p><strong>{value}</strong><span>{note ?? 'Coleção atual'}</span></article>; }
 function Coverage({ label, value, detail, muted = false }: { label: string; value: string; detail: string; muted?: boolean }) { return <div className={`coverage ${muted ? 'coverage-muted' : ''}`}><span>{label}</span><strong>{value}</strong><small>{detail}</small></div>; }
 function Fact({ label, value, highlight = false }: { label: string; value: string; highlight?: boolean }) { return <div className={`fact ${highlight ? 'fact-highlight' : ''}`}><p className="fact-label">{label}</p><p className="mt-1 font-semibold">{value}</p></div>; }

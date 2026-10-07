@@ -7,6 +7,8 @@
   },
   "scripts": {
     "dev": "vinext dev",
+    "metrics": "node scripts/build-metrics.mjs",
+    "prebuild": "node scripts/build-metrics.mjs",
     "build": "vinext build",
     "start": "vinext start",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next"
