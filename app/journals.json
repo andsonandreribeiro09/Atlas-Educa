@@ -1,0 +1,5004 @@
+{
+  "source": {
+    "name": "Educ@ — Fundação Carlos Chagas",
+    "url": "https://educa.fcc.org.br/scielo.php?script=sci_alphabetic&lng=pt&nrm=iso",
+    "capturedAt": "2026-10-07T16:40:24.552Z",
+    "scope": "Somente periódicos ativos",
+    "articleCountsIncluded": true,
+    "articleLevelRecordsIncluded": true,
+    "oaiUrl": "https://educa.fcc.org.br/oai/scielo-oai.php",
+    "officialSourcesDiscoveryAt": "2026-09-30T18:59:34.932Z",
+    "database": "SQLite",
+    "databaseUpdatedAt": "2026-10-07T16:40:24.552Z"
+  },
+  "journals": [
+    {
+      "id": "2178-5201",
+      "title": "Acta Scientiarum. Education",
+      "status": "Ativo",
+      "publisher": "Editora da Universidade Estadual de Maringá - EDUEM",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "2178-5198",
+      "onlineIssn": "2178-5201",
+      "mission": "A revista Acta Scientiarum. Education, ISSN 2178-5201 (online), criada em 2010, é uma publicação científica eletrônica editada pela Editora da Universidade Estadual de Maringá, com acesso aberto e publicação de trabalhos em fluxo contínuo avaliados por pares.",
+      "creationYear": 2010,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Acta Scientiarum. Education, Volume: 48",
+      "issueCount": 35,
+      "catalogIssueCount": 35,
+      "firstIndexedYear": 2010,
+      "latestIndexedYear": 2026,
+      "articleCount": 653,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2178-5201&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2178-5201&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2178-5201&lng=pt&nrm=iso&page=about",
+      "searchArticleCount": 643,
+      "articleCountDifference": 10,
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 21,
+          "issueCount": 1
+        },
+        {
+          "year": 2025,
+          "articleCount": 50,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 50,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 51,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 50,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 31,
+          "issueCount": 4
+        },
+        {
+          "year": 2017,
+          "articleCount": 50,
+          "issueCount": 5
+        },
+        {
+          "year": 2016,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 2015,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 2014,
+          "articleCount": 32,
+          "issueCount": 2
+        },
+        {
+          "year": 2013,
+          "articleCount": 30,
+          "issueCount": 2
+        },
+        {
+          "year": 2012,
+          "articleCount": 30,
+          "issueCount": 2
+        },
+        {
+          "year": 2011,
+          "articleCount": 30,
+          "issueCount": 2
+        },
+        {
+          "year": 2010,
+          "articleCount": 30,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/2178-5201.json",
+      "officialSiteUrl": "https://periodicos.uem.br/ojs/index.php/ActaSciEduc/index",
+      "officialOaiUrl": "https://periodicos.uem.br/ojs/index.php/ActaSciEduc/oai",
+      "officialSourceStatus": "oai-ready",
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T12:59:26.881Z",
+        "dataUrl": "/data/comparisons/2178-5201.json",
+        "officialArticleCount": 702,
+        "officialInCoverageCount": 702,
+        "matchedCount": 648,
+        "missingCount": 54,
+        "outsideCoverageCount": 0
+      }
+    },
+    {
+      "id": "1414-4077",
+      "title": "Avaliação: Revista da Avaliação da Educação Superior (Campinas)",
+      "status": "Ativo",
+      "publisher": "Publicação da Rede de Avaliação Institucional da Educação Superior (RAIES), da Universidade Estadual de Campinas (UNICAMP) e da Universidade de Sorocaba (UNISO)",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1414-4077",
+      "onlineIssn": "1982-5765",
+      "mission": "Contribuir para o desenvolvimento dos estudos e pesquisas sobre a educação superior, em especial da área de avaliação da educação superior.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Avaliação: Revista da Avaliação da Educação Superior (Campinas), Volume: 30",
+      "issueCount": 102,
+      "catalogIssueCount": 102,
+      "firstIndexedYear": 1996,
+      "latestIndexedYear": 2025,
+      "articleCount": 1099,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1414-4077&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1414-4077&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1414-4077&lng=pt&nrm=iso&page=about",
+      "searchArticleCount": 948,
+      "articleCountDifference": 151,
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 4,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 33,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 30,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 34,
+          "issueCount": 3
+        },
+        {
+          "year": 2021,
+          "articleCount": 43,
+          "issueCount": 3
+        },
+        {
+          "year": 2020,
+          "articleCount": 37,
+          "issueCount": 3
+        },
+        {
+          "year": 2019,
+          "articleCount": 38,
+          "issueCount": 3
+        },
+        {
+          "year": 2018,
+          "articleCount": 44,
+          "issueCount": 3
+        },
+        {
+          "year": 2017,
+          "articleCount": 43,
+          "issueCount": 3
+        },
+        {
+          "year": 2016,
+          "articleCount": 43,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 34,
+          "issueCount": 3
+        },
+        {
+          "year": 2014,
+          "articleCount": 39,
+          "issueCount": 3
+        },
+        {
+          "year": 2013,
+          "articleCount": 37,
+          "issueCount": 3
+        },
+        {
+          "year": 2012,
+          "articleCount": 40,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 38,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 35,
+          "issueCount": 3
+        },
+        {
+          "year": 2009,
+          "articleCount": 37,
+          "issueCount": 3
+        },
+        {
+          "year": 2008,
+          "articleCount": 45,
+          "issueCount": 3
+        },
+        {
+          "year": 2007,
+          "articleCount": 37,
+          "issueCount": 4
+        },
+        {
+          "year": 2006,
+          "articleCount": 37,
+          "issueCount": 4
+        },
+        {
+          "year": 2005,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 2004,
+          "articleCount": 38,
+          "issueCount": 4
+        },
+        {
+          "year": 2003,
+          "articleCount": 45,
+          "issueCount": 4
+        },
+        {
+          "year": 2002,
+          "articleCount": 37,
+          "issueCount": 4
+        },
+        {
+          "year": 2001,
+          "articleCount": 35,
+          "issueCount": 5
+        },
+        {
+          "year": 2000,
+          "articleCount": 46,
+          "issueCount": 7
+        },
+        {
+          "year": 1999,
+          "articleCount": 42,
+          "issueCount": 8
+        },
+        {
+          "year": 1998,
+          "articleCount": 29,
+          "issueCount": 4
+        },
+        {
+          "year": 1997,
+          "articleCount": 40,
+          "issueCount": 4
+        },
+        {
+          "year": 1996,
+          "articleCount": 20,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/1414-4077.json",
+      "officialSiteUrl": "https://periodicos.uniso.br/avaliacao",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1982-7806",
+      "title": "Cadernos de História da Educação",
+      "status": "Ativo",
+      "publisher": "EDUFU - Editora da Universidade Federal de Uberlândia",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "1982-7806",
+      "mission": "O periódico Cadernos de História da Educação está vinculado à área de História da Educação, cobrindo uma série de temáticas próprias dessa área, o que inclui: História das Instituições Escolares, História das Disciplinas Escolares, História do Pensamento Educacional, Imprensa e História da Educação, Historiografia da Educação etc. O periódico pretende divulgar os resultados de estudos e de pesquisas de caráter científico realizados por pesquisadores brasileiros e estrangeiros afetos à temática da História e Historiografia da Educação, bem como promover o intercâmbio de ideias e de novos conhecimentos entre pesquisadores brasileiros e estrangeiros vinculados a instituições acadêmico-científicas que se dediquem à investigação no campo da História e da Historiografia da Educação.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Cadernos de História da Educação, Volume: 24",
+      "issueCount": 23,
+      "catalogIssueCount": 23,
+      "firstIndexedYear": 2015,
+      "latestIndexedYear": 2025,
+      "articleCount": 575,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1982-7806&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1982-7806&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1982-7806&lng=pt&nrm=iso&page=about",
+      "searchArticleCount": 573,
+      "articleCountDifference": 2,
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 47,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 53,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 68,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 65,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 45,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 58,
+          "issueCount": 3
+        },
+        {
+          "year": 2019,
+          "articleCount": 45,
+          "issueCount": 3
+        },
+        {
+          "year": 2018,
+          "articleCount": 47,
+          "issueCount": 3
+        },
+        {
+          "year": 2017,
+          "articleCount": 47,
+          "issueCount": 3
+        },
+        {
+          "year": 2016,
+          "articleCount": 49,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 51,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/1982-7806.json",
+      "officialSiteUrl": "https://seer.ufu.br/index.php/che",
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T13:01:00.593Z",
+        "dataUrl": "/data/comparisons/1982-7806.json",
+        "officialArticleCount": 926,
+        "officialInCoverageCount": 611,
+        "matchedCount": 572,
+        "missingCount": 39,
+        "outsideCoverageCount": 315
+      },
+      "officialOaiUrl": "https://seer.ufu.br/index.php/che/oai",
+      "officialSourceStatus": "oai-ready"
+    },
+    {
+      "id": "0100-1574",
+      "title": "Cadernos de Pesquisa",
+      "status": "Ativo",
+      "publisher": "Fundação Carlos Chagas",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0100-1574",
+      "onlineIssn": "1980-5314",
+      "mission": "Criada em 1971, Cadernos de Pesquisa é uma revista científica da Fundação Carlos Chagas (São Paulo, Brasil) que tem como objetivo divulgar a produção acadêmica relacionada com a educação. Dedica especial atenção às desigualdades sociais e contempla estudos que abordam, de forma interdisciplinar, questões relacionadas a gênero, relações étnico-raciais, infância, juventude, escola, trabalho, família e políticas públicas. Acolhe manuscritos inéditos, com perspectivas teóricas diversas, com prioridade para a publicação de pesquisas de caráter empírico, histórico ou documental. Contempla ensaios, entrevistas, relatos de experiência e resenhas. Referência para a formação de pesquisadores, a revista tem como critérios para avaliação: a relevância social, as contribuições teóricas e metodológicas e o caráter inovador dos estudos.",
+      "creationYear": 1971,
+      "periodicity": null,
+      "latestLabel": "Cadernos de Pesquisa, Volume: 56",
+      "issueCount": 188,
+      "catalogIssueCount": 188,
+      "firstIndexedYear": 1971,
+      "latestIndexedYear": 2026,
+      "articleCount": 2322,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0100-1574&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0100-1574&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0100-1574&lng=pt&nrm=iso&page=about",
+      "searchArticleCount": 1966,
+      "articleCountDifference": 356,
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 14,
+          "issueCount": 1
+        },
+        {
+          "year": 2025,
+          "articleCount": 45,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 51,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 48,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 48,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 56,
+          "issueCount": 4
+        },
+        {
+          "year": 2019,
+          "articleCount": 58,
+          "issueCount": 4
+        },
+        {
+          "year": 2018,
+          "articleCount": 45,
+          "issueCount": 4
+        },
+        {
+          "year": 2017,
+          "articleCount": 58,
+          "issueCount": 4
+        },
+        {
+          "year": 2016,
+          "articleCount": 52,
+          "issueCount": 4
+        },
+        {
+          "year": 2015,
+          "articleCount": 43,
+          "issueCount": 4
+        },
+        {
+          "year": 2014,
+          "articleCount": 45,
+          "issueCount": 4
+        },
+        {
+          "year": 2013,
+          "articleCount": 55,
+          "issueCount": 3
+        },
+        {
+          "year": 2012,
+          "articleCount": 57,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 56,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 57,
+          "issueCount": 3
+        },
+        {
+          "year": 2009,
+          "articleCount": 54,
+          "issueCount": 3
+        },
+        {
+          "year": 2008,
+          "articleCount": 46,
+          "issueCount": 3
+        },
+        {
+          "year": 2007,
+          "articleCount": 44,
+          "issueCount": 3
+        },
+        {
+          "year": 2006,
+          "articleCount": 33,
+          "issueCount": 3
+        },
+        {
+          "year": 2005,
+          "articleCount": 38,
+          "issueCount": 3
+        },
+        {
+          "year": 2004,
+          "articleCount": 41,
+          "issueCount": 3
+        },
+        {
+          "year": 2003,
+          "articleCount": 40,
+          "issueCount": 3
+        },
+        {
+          "year": 2002,
+          "articleCount": 41,
+          "issueCount": 3
+        },
+        {
+          "year": 2001,
+          "articleCount": 43,
+          "issueCount": 3
+        },
+        {
+          "year": 2000,
+          "articleCount": 36,
+          "issueCount": 3
+        },
+        {
+          "year": 1999,
+          "articleCount": 36,
+          "issueCount": 3
+        },
+        {
+          "year": 1998,
+          "articleCount": 32,
+          "issueCount": 3
+        },
+        {
+          "year": 1997,
+          "articleCount": 38,
+          "issueCount": 3
+        },
+        {
+          "year": 1996,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 1995,
+          "articleCount": 44,
+          "issueCount": 4
+        },
+        {
+          "year": 1994,
+          "articleCount": 49,
+          "issueCount": 4
+        },
+        {
+          "year": 1993,
+          "articleCount": 40,
+          "issueCount": 4
+        },
+        {
+          "year": 1992,
+          "articleCount": 40,
+          "issueCount": 4
+        },
+        {
+          "year": 1991,
+          "articleCount": 44,
+          "issueCount": 4
+        },
+        {
+          "year": 1990,
+          "articleCount": 43,
+          "issueCount": 4
+        },
+        {
+          "year": 1989,
+          "articleCount": 50,
+          "issueCount": 4
+        },
+        {
+          "year": 1988,
+          "articleCount": 44,
+          "issueCount": 4
+        },
+        {
+          "year": 1987,
+          "articleCount": 67,
+          "issueCount": 4
+        },
+        {
+          "year": 1986,
+          "articleCount": 45,
+          "issueCount": 4
+        },
+        {
+          "year": 1985,
+          "articleCount": 46,
+          "issueCount": 5
+        },
+        {
+          "year": 1984,
+          "articleCount": 53,
+          "issueCount": 5
+        },
+        {
+          "year": 1983,
+          "articleCount": 44,
+          "issueCount": 4
+        },
+        {
+          "year": 1982,
+          "articleCount": 41,
+          "issueCount": 5
+        },
+        {
+          "year": 1981,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 1980,
+          "articleCount": 42,
+          "issueCount": 5
+        },
+        {
+          "year": 1979,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 1978,
+          "articleCount": 29,
+          "issueCount": 4
+        },
+        {
+          "year": 1977,
+          "articleCount": 27,
+          "issueCount": 4
+        },
+        {
+          "year": 1976,
+          "articleCount": 33,
+          "issueCount": 4
+        },
+        {
+          "year": 1975,
+          "articleCount": 33,
+          "issueCount": 4
+        },
+        {
+          "year": 1974,
+          "articleCount": 13,
+          "issueCount": 3
+        },
+        {
+          "year": 1973,
+          "articleCount": 10,
+          "issueCount": 3
+        },
+        {
+          "year": 1972,
+          "articleCount": 16,
+          "issueCount": 3
+        },
+        {
+          "year": 1971,
+          "articleCount": 2,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/0100-1574.json",
+      "officialSiteUrl": "http://publicacoes.fcc.org.br/index.php/cp/issue/archive",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1984-5987",
+      "title": "Childhood & Philosophy",
+      "status": "Ativo",
+      "publisher": "Universidade do Estado do Rio de Janeiro",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "2525-5061",
+      "onlineIssn": "1984-5987",
+      "mission": "Childhood & philosophy é um periódico quadrimestral dedicado às interseções e relações entre filosofia, infância, filosofias da infância, e investigação filosófica com crianças. É resultado de uma parceria entre o NEFI (Núcleo de Estudos de Filosofias e Infâncias) vinculado ao Programa de Pós-Graduação em Educação da Universidade do Estado do Rio de Janeiro (ProPEd/UERJ) e o ICPIC (International Council for Philosophical Inquiry with Children). Publica regularmente três volumes em formato eletrônico por ano, no qual pelo menos um deles é impresso.",
+      "creationYear": null,
+      "periodicity": "Quadrimestral",
+      "latestLabel": "Childhood & Philosophy, Volume: 21",
+      "issueCount": 26,
+      "catalogIssueCount": 26,
+      "firstIndexedYear": 2011,
+      "latestIndexedYear": 2025,
+      "articleCount": 369,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1984-5987&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1984-5987&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1984-5987&lng=pt&nrm=iso&page=about",
+      "searchArticleCount": 435,
+      "articleCountDifference": -66,
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 9,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 37,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 28,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 28,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 35,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 36,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 20,
+          "issueCount": 3
+        },
+        {
+          "year": 2017,
+          "articleCount": 19,
+          "issueCount": 3
+        },
+        {
+          "year": 2016,
+          "articleCount": 32,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 21,
+          "issueCount": 2
+        },
+        {
+          "year": 2014,
+          "articleCount": 19,
+          "issueCount": 2
+        },
+        {
+          "year": 2013,
+          "articleCount": 15,
+          "issueCount": 2
+        },
+        {
+          "year": 2012,
+          "articleCount": 18,
+          "issueCount": 2
+        },
+        {
+          "year": 2011,
+          "articleCount": 12,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/1984-5987.json",
+      "officialSiteUrl": "https://www.e-publicacoes.uerj.br/index.php/childhood/issue/archive",
+      "officialOaiUrl": "https://www.e-publicacoes.uerj.br/index.php/childhood/oai",
+      "officialSourceStatus": "oai-ready",
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T13:05:35.424Z",
+        "dataUrl": "/data/comparisons/1984-5987.json",
+        "officialArticleCount": 632,
+        "officialInCoverageCount": 519,
+        "matchedCount": 367,
+        "missingCount": 152,
+        "outsideCoverageCount": 113
+      }
+    },
+    {
+      "id": "1516-7313",
+      "title": "Ciência & Educação (Bauru)",
+      "status": "Ativo",
+      "publisher": "Universidade Estadual Paulista (UNESP)",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1516-7313",
+      "onlineIssn": "1980-850X",
+      "mission": "Publicar artigos científicos sobre resultados de pesquisas empíricas ou teóricas e ensaios originais sobre temas relacionados à educação em ciências, educação matemática e áreas afins.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Ciência & Educação (Bauru), Volume: 32",
+      "issueCount": 78,
+      "catalogIssueCount": 78,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 1251,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1516-7313&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1516-7313&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1516-7313&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "http://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1516-7313&lng=pt&nrm=iso",
+      "officialOaiUrl": "http://educa.fcc.org.br/oai",
+      "officialSourceStatus": "oai-ready"
+    },
+    {
+      "id": "2178-4612",
+      "title": "Conjectura: Filosofia e Educação",
+      "status": "Ativo",
+      "publisher": "Universidade de Caxias do Sul",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0103-1457",
+      "onlineIssn": "2178-4612",
+      "mission": "de autores vinculados a pelo menos 4 instituições diferentes da que edita a revista com indicação da afiliação institucional. Em cada número publicado, pelo menos 1 artigo será proveniente do exterior.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Conjectura: Filosofia e Educação, Volume: 30",
+      "issueCount": 19,
+      "catalogIssueCount": 19,
+      "firstIndexedYear": 2016,
+      "latestIndexedYear": 2025,
+      "articleCount": 383,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2178-4612&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2178-4612&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2178-4612&lng=pt&nrm=iso&page=about",
+      "officialSiteUrl": "https://sou.ucs.br/etc/revistas/index.php/conjectura/about",
+      "officialOaiUrl": "https://sou.ucs.br/etc/revistas/index.php/conjectura/oai",
+      "officialSourceStatus": "oai-ready",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 10,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 21,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 53,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 47,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 56,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 29,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 58,
+          "issueCount": 5
+        },
+        {
+          "year": 2017,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 2016,
+          "articleCount": 30,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2178-4612.json",
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T13:05:59.113Z",
+        "dataUrl": "/data/comparisons/2178-4612.json",
+        "officialArticleCount": 647,
+        "officialInCoverageCount": 404,
+        "matchedCount": 370,
+        "missingCount": 34,
+        "outsideCoverageCount": 243
+      }
+    },
+    {
+      "id": "1984-7114",
+      "title": "Contrapontos",
+      "status": "Ativo",
+      "publisher": "Univali",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "1984-7114",
+      "mission": "A política editorial da Contrapontos foi redefinida e mais focada a partir de 2010. A equipe editorial decidiu que a publicação deverá ser mais coerente com o eixo temático \"Políticas públicas para educação e práticas educativas\" do Programa de Pós- graduação em Educação da UNIVALI. Ficou definido que os artigos recebidos deverão versar sobre as políticas públicas de educação, seus princípios orientadores e a consolidação das mesmas em normas, programas e práticas educativas com ênfase nos saberes docentes, na distribuição de papéis e na organização das atividades pedagógicas. Serão aceitos ainda, textos que abordem diferentes linguagens, tecnologia educacional e formação docente. Sendo assim, nossa opção é para publicações de pesquisadores doutores e brasileiros, não excluindo em cada volume contribuições de autores internacionais, obviamente.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Contrapontos, Volume: 25, Número: 1",
+      "issueCount": 51,
+      "catalogIssueCount": 51,
+      "firstIndexedYear": 2006,
+      "latestIndexedYear": 2025,
+      "articleCount": 580,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1984-7114&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1984-7114&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1984-7114&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 23,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 17,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 14,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 18,
+          "issueCount": 2
+        },
+        {
+          "year": 2021,
+          "articleCount": 13,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 31,
+          "issueCount": 2
+        },
+        {
+          "year": 2019,
+          "articleCount": 34,
+          "issueCount": 2
+        },
+        {
+          "year": 2018,
+          "articleCount": 36,
+          "issueCount": 4
+        },
+        {
+          "year": 2017,
+          "articleCount": 41,
+          "issueCount": 4
+        },
+        {
+          "year": 2016,
+          "articleCount": 29,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 28,
+          "issueCount": 3
+        },
+        {
+          "year": 2014,
+          "articleCount": 25,
+          "issueCount": 2
+        },
+        {
+          "year": 2013,
+          "articleCount": 24,
+          "issueCount": 3
+        },
+        {
+          "year": 2012,
+          "articleCount": 36,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 35,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 35,
+          "issueCount": 3
+        },
+        {
+          "year": 2009,
+          "articleCount": 28,
+          "issueCount": 3
+        },
+        {
+          "year": 2008,
+          "articleCount": 34,
+          "issueCount": 3
+        },
+        {
+          "year": 2007,
+          "articleCount": 41,
+          "issueCount": 3
+        },
+        {
+          "year": 2006,
+          "articleCount": 38,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/1984-7114.json",
+      "officialSiteUrl": "https://periodicos.univali.br/index.php/rc/about",
+      "officialOaiUrl": "https://periodicos.univali.br/index.php/rc/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:14:04.521Z",
+        "dataUrl": "/data/comparisons/1984-7114.json",
+        "officialArticleCount": 788,
+        "officialInCoverageCount": 611,
+        "matchedCount": 558,
+        "missingCount": 53,
+        "outsideCoverageCount": 177,
+        "educaCoverageStart": 2006,
+        "educaCoverageEnd": 2025,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2001,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "1983-9278",
+      "title": "Eccos Revista Científica",
+      "status": "Ativo",
+      "publisher": "Universidade Nove de Julho - UNINOVE",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1517-1949",
+      "onlineIssn": "1983-9278",
+      "mission": "ECCOS, Revista científica é uma publicação científica trimestral do Programa de Pós-Graduação em Educação (PPGE) da Universidade Nove de Julho (Uninove). Fundada em 1999, tem como objetivo estimular e disseminar reflexões sobre temas educacionais e intercambiar com outras publicações do mesmo campo científico ou de áreas afins. A revista publica artigos originais em quatro idiomas: português, inglês, francês e espanhol.",
+      "creationYear": 1999,
+      "periodicity": "Trimestral",
+      "latestLabel": "Eccos Revista Científica, Número: 73",
+      "issueCount": 32,
+      "catalogIssueCount": 32,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 536,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1983-9278&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1983-9278&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1983-9278&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.uninove.br/eccos",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1981-2582",
+      "title": "Educação",
+      "status": "Ativo",
+      "publisher": "Pontifícia Universidade Católica do Rio Grande do Sul",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0101-465X",
+      "onlineIssn": "1981-2582",
+      "mission": "A Revista Educação foi fundada em 1978 e, desde 2016, mantém-se exclusivamente on-line. É uma revista acadêmica da Escola de Humanidades da PUCRS, de publicação científica de excelência, voltada para a área da Educação e editada sob a responsabilidade do PPGEDU. Tem como o seu principal propósito divulgar a produção científica original de pesquisadores/as brasileiros/as e estrangeiros/as, propiciando um diálogo entre os diferentes campos da educação discutidos mundialmente.",
+      "creationYear": 1978,
+      "periodicity": null,
+      "latestLabel": "Educação, Volume: 47, Número: 1",
+      "issueCount": 46,
+      "catalogIssueCount": 46,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 630,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1981-2582&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1981-2582&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1981-2582&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://revistaseletronicas.pucrs.br/ojs/index.php/faced/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2448-3583",
+      "title": "Educação & Formação",
+      "status": "Ativo",
+      "publisher": "Universidade Estadual do Ceará",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2448-3583",
+      "mission": "Promover o intercâmbio e os debates no campo educacional nacional e internacional, prioritariamente, nos temas Educação e Formação de professores, considerando que o público-alvo a que se destina a Revista Educação & Formação são pesquisadores da área da educação, professores da educação básica e superior, pós-graduandos e demais profissionais interessados nos referidos temas.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Educação & Formação, Volume: 11",
+      "issueCount": 8,
+      "catalogIssueCount": 8,
+      "firstIndexedYear": 2021,
+      "latestIndexedYear": 2026,
+      "articleCount": 221,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2448-3583&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2448-3583&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2448-3583&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 10,
+          "issueCount": 1
+        },
+        {
+          "year": 2025,
+          "articleCount": 43,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 48,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 38,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 42,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2448-3583.json",
+      "officialSiteUrl": "https://revistas.uece.br/index.php/redufor/index",
+      "officialOaiUrl": "https://revistas.uece.br/index.php/redufor/oai",
+      "officialSourceStatus": "oai-ready",
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T14:13:42.930Z",
+        "dataUrl": "/data/comparisons/2448-3583.json",
+        "officialArticleCount": 434,
+        "officialInCoverageCount": 249,
+        "matchedCount": 221,
+        "missingCount": 28,
+        "outsideCoverageCount": 185
+      }
+    },
+    {
+      "id": "1982-596x",
+      "title": "Educação e Filosofia",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Uberlândia",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0102-6801",
+      "onlineIssn": "1982-596X",
+      "mission": "A Revista Educação e Filosofia tem como propósito o incentivo à investigação e ao debate acadêmico acerca da educação e da filosofia em seus diversos aspectos, prestando-se como um instrumento de divulgação do conhecimento, especialmente dessas duas áreas, sendo, pois, objetivos da Revista:",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Educação e Filosofia, Volume: 37, Número: 81",
+      "issueCount": 45,
+      "catalogIssueCount": 45,
+      "firstIndexedYear": 2007,
+      "latestIndexedYear": 2023,
+      "articleCount": 731,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1982-596x&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1982-596x&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1982-596x&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2023,
+          "articleCount": 55,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 53,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 50,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 47,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 51,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 48,
+          "issueCount": 1
+        },
+        {
+          "year": 2017,
+          "articleCount": 61,
+          "issueCount": 1
+        },
+        {
+          "year": 2016,
+          "articleCount": 52,
+          "issueCount": 1
+        },
+        {
+          "year": 2015,
+          "articleCount": 52,
+          "issueCount": 1
+        },
+        {
+          "year": 2014,
+          "articleCount": 52,
+          "issueCount": 1
+        },
+        {
+          "year": 2013,
+          "articleCount": 45,
+          "issueCount": 1
+        },
+        {
+          "year": 2012,
+          "articleCount": 34,
+          "issueCount": 1
+        },
+        {
+          "year": 2011,
+          "articleCount": 47,
+          "issueCount": 2
+        },
+        {
+          "year": 2010,
+          "articleCount": 23,
+          "issueCount": 1
+        },
+        {
+          "year": 2009,
+          "articleCount": 27,
+          "issueCount": 1
+        },
+        {
+          "year": 2008,
+          "articleCount": 23,
+          "issueCount": 1
+        },
+        {
+          "year": 2007,
+          "articleCount": 11,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/1982-596x.json",
+      "officialSiteUrl": "http://www.seer.ufu.br/index.php/EducacaoFilosofia/about",
+      "officialOaiUrl": "http://www.seer.ufu.br/index.php/EducacaoFilosofia/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:15:50.868Z",
+        "dataUrl": "/data/comparisons/1982-596x.json",
+        "officialArticleCount": 1388,
+        "officialInCoverageCount": 724,
+        "matchedCount": 674,
+        "missingCount": 50,
+        "outsideCoverageCount": 664,
+        "educaCoverageStart": 2007,
+        "educaCoverageEnd": 2023,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1986,
+        "officialCoverageEnd": 2025
+      }
+    },
+    {
+      "id": "1517-9702",
+      "title": "Educação e Pesquisa",
+      "status": "Ativo",
+      "publisher": "Faculdade de Educação da Universidade de São Paulo",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1517-9702",
+      "onlineIssn": "1678-4634",
+      "mission": "Publicar artigos inéditos na área educacional, em especial resultados de pesquisa de caráter teórico ou empírico, bem como revisões de literatura de pesquisa educacional.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Educação e Pesquisa, Volume: 52",
+      "issueCount": 70,
+      "catalogIssueCount": 70,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 1602,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1517-9702&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1517-9702&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1517-9702&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://www.educacaoepesquisa.fe.usp.br",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "0100-3143",
+      "title": "Educação e Realidade",
+      "status": "Ativo",
+      "publisher": "Universidade Federal do Rio Grande do Sul - Faculdade de Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0100-3143",
+      "onlineIssn": "2175-6236",
+      "mission": "Educação & Realidade tem como missão a divulgação da produção científica na área da educação e o incentivo ao debate acadêmico para a produção de novos conhecimentos. Visa, também, a ampliação das ferramentas analíticas de modo a expandir as fronteiras do pensamento e da prática no campo da educação. A revista tem como objetivo central servir de veículo não apenas para o conhecimento e as pesquisas já consolidadas, mas também para perspectivas inovadoras, tanto no que se refere à argumentação quanto à metodologia, e que se apresentam como alternativas aos modelos estabelecidos na área.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Educação e Realidade, Volume: 50",
+      "issueCount": 61,
+      "catalogIssueCount": 61,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 1095,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0100-3143&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0100-3143&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0100-3143&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://seer.ufrgs.br/educacaoerealidade/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "0102-4698",
+      "title": "Educação em Revista",
+      "status": "Ativo",
+      "publisher": "Faculdade de Educação da Universidade Federal de Minas Gerais",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0102-4698",
+      "onlineIssn": "1982-6621",
+      "mission": "Contribuir para a divulgação de conhecimentos científicos no campo da educação, procurando, em seu projeto, torná-los públicos para todos interessados nessa área.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Educação em Revista, Volume: 41",
+      "issueCount": 81,
+      "catalogIssueCount": 81,
+      "firstIndexedYear": 1985,
+      "latestIndexedYear": 2025,
+      "articleCount": 1976,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0102-4698&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0102-4698&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0102-4698&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 62,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 94,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 100,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 76,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 90,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 147,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 54,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 100,
+          "issueCount": 1
+        },
+        {
+          "year": 2017,
+          "articleCount": 65,
+          "issueCount": 1
+        },
+        {
+          "year": 2016,
+          "articleCount": 59,
+          "issueCount": 4
+        },
+        {
+          "year": 2015,
+          "articleCount": 62,
+          "issueCount": 4
+        },
+        {
+          "year": 2014,
+          "articleCount": 47,
+          "issueCount": 4
+        },
+        {
+          "year": 2013,
+          "articleCount": 42,
+          "issueCount": 4
+        },
+        {
+          "year": 2012,
+          "articleCount": 64,
+          "issueCount": 4
+        },
+        {
+          "year": 2011,
+          "articleCount": 47,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 51,
+          "issueCount": 3
+        },
+        {
+          "year": 2009,
+          "articleCount": 46,
+          "issueCount": 3
+        },
+        {
+          "year": 2008,
+          "articleCount": 25,
+          "issueCount": 2
+        },
+        {
+          "year": 2007,
+          "articleCount": 31,
+          "issueCount": 2
+        },
+        {
+          "year": 2006,
+          "articleCount": 27,
+          "issueCount": 2
+        },
+        {
+          "year": 2005,
+          "articleCount": 19,
+          "issueCount": 2
+        },
+        {
+          "year": 2004,
+          "articleCount": 21,
+          "issueCount": 2
+        },
+        {
+          "year": 2003,
+          "articleCount": 19,
+          "issueCount": 1
+        },
+        {
+          "year": 2002,
+          "articleCount": 28,
+          "issueCount": 2
+        },
+        {
+          "year": 2001,
+          "articleCount": 27,
+          "issueCount": 2
+        },
+        {
+          "year": 2000,
+          "articleCount": 35,
+          "issueCount": 3
+        },
+        {
+          "year": 1999,
+          "articleCount": 20,
+          "issueCount": 2
+        },
+        {
+          "year": 1998,
+          "articleCount": 9,
+          "issueCount": 1
+        },
+        {
+          "year": 1997,
+          "articleCount": 21,
+          "issueCount": 2
+        },
+        {
+          "year": 1993,
+          "articleCount": 67,
+          "issueCount": 2
+        },
+        {
+          "year": 1992,
+          "articleCount": 65,
+          "issueCount": 2
+        },
+        {
+          "year": 1991,
+          "articleCount": 37,
+          "issueCount": 2
+        },
+        {
+          "year": 1990,
+          "articleCount": 58,
+          "issueCount": 2
+        },
+        {
+          "year": 1989,
+          "articleCount": 51,
+          "issueCount": 2
+        },
+        {
+          "year": 1988,
+          "articleCount": 58,
+          "issueCount": 2
+        },
+        {
+          "year": 1987,
+          "articleCount": 49,
+          "issueCount": 2
+        },
+        {
+          "year": 1986,
+          "articleCount": 54,
+          "issueCount": 2
+        },
+        {
+          "year": 1985,
+          "articleCount": 49,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/0102-4698.json",
+      "officialSiteUrl": "https://periodicos.ufmg.br/index.php/edrevista/about",
+      "officialOaiUrl": "https://periodicos.ufmg.br/index.php/edrevista/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:14:29.779Z",
+        "dataUrl": "/data/comparisons/0102-4698.json",
+        "officialArticleCount": 1501,
+        "officialInCoverageCount": 1459,
+        "matchedCount": 1433,
+        "missingCount": 26,
+        "outsideCoverageCount": 42,
+        "educaCoverageStart": 1985,
+        "educaCoverageEnd": 2025,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1985,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2526-6136",
+      "title": "Educação Matemática Debate",
+      "status": "Ativo",
+      "publisher": "Universidade Estadual de Montes Claros",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2526-6136",
+      "mission": "Ampliar, divulgar e fortalecer a produção científica de elevada qualidade no campo da Educação Matemática, reverberando a pesquisa e a prática profissional, socializando conhecimento e sistematizando a investigação científica.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Educação Matemática Debate, Volume: 10, Número: 19",
+      "issueCount": 10,
+      "catalogIssueCount": 10,
+      "firstIndexedYear": 2020,
+      "latestIndexedYear": 2026,
+      "articleCount": 233,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2526-6136&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2526-6136&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2526-6136&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 12,
+          "issueCount": 1
+        },
+        {
+          "year": 2025,
+          "articleCount": 70,
+          "issueCount": 3
+        },
+        {
+          "year": 2024,
+          "articleCount": 34,
+          "issueCount": 2
+        },
+        {
+          "year": 2023,
+          "articleCount": 30,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 18,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 10,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 59,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/2526-6136.json",
+      "officialSiteUrl": "https://www.periodicos.unimontes.br/index.php/emd",
+      "officialOaiUrl": "https://www.periodicos.unimontes.br/index.php/emd/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T14:19:47.765Z",
+        "dataUrl": "/data/comparisons/2526-6136.json",
+        "officialArticleCount": 317,
+        "officialInCoverageCount": 272,
+        "matchedCount": 233,
+        "missingCount": 39,
+        "outsideCoverageCount": 45,
+        "educaCoverageStart": 2020,
+        "educaCoverageEnd": null
+      }
+    },
+    {
+      "id": "1984-6444",
+      "title": "Educação UFSM",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Santa Maria",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0101-9031",
+      "onlineIssn": "1984-6444",
+      "mission": "A revista Educação (Santa Maria. Online) tem como missão divulgar o conhecimento científico produzido na área da educação, bem como fomentar diálogos no campo acadêmico com vistas a produção de novos conhecimentos. Neste sentido, oferece subsídios para a ampliação do horizonte acadêmico, social, político e educacional, fomentando as discussões e problematizações referentes ao conhecimento científico na área da educação e reorganização dos múltiplos aspectos implicados na pesquisa.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Educação UFSM, Volume: 50",
+      "issueCount": 38,
+      "catalogIssueCount": 38,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 1118,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1984-6444&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1984-6444&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1984-6444&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.ufsm.br/reveducacao/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1981-8106",
+      "title": "Educação: Teoria e Prática",
+      "status": "Ativo",
+      "publisher": "UNESP - Universidade Estadual Paulista - Instituto de Biociências - Departamento de Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1993-2010",
+      "onlineIssn": "1981-8106",
+      "mission": "A revista Educação: Teoria e Prática é uma publicação contínua do Departamento de Educação/IB e do Programa de Pós-Graduação em Educação, da Universidade Estadual Paulista \"Júlio de Mesquita Filho\" - Unesp/Câmpus de Rio Claro. Constitui-se em importante instrumento para o diálogo crítico e discussão entre professores, pesquisadores, especialistas em educação e alunos que, ao longo de sua existência, foi fortalecendo sua vocação acadêmica no que concerne à produção de conhecimentos de cunho interdisciplinar, deslocando-se da inserção local, para regional, nacional, com vistas à inserção internacional. A revista contou com uma versão impressa de 1993 a 2010 (ISSN: 1981-8106) e hoje é eletrônica. Avaliação quadrienal Qualis CAPES 2017-2020: A2.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Educação: Teoria e Prática, Volume: 35, Número: 70",
+      "issueCount": 39,
+      "catalogIssueCount": 39,
+      "firstIndexedYear": 2009,
+      "latestIndexedYear": 2025,
+      "articleCount": 704,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1981-8106&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1981-8106&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1981-8106&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 80,
+          "issueCount": 2
+        },
+        {
+          "year": 2024,
+          "articleCount": 70,
+          "issueCount": 2
+        },
+        {
+          "year": 2023,
+          "articleCount": 57,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 44,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 49,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 52,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 38,
+          "issueCount": 3
+        },
+        {
+          "year": 2018,
+          "articleCount": 36,
+          "issueCount": 3
+        },
+        {
+          "year": 2017,
+          "articleCount": 34,
+          "issueCount": 3
+        },
+        {
+          "year": 2016,
+          "articleCount": 36,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 36,
+          "issueCount": 3
+        },
+        {
+          "year": 2014,
+          "articleCount": 33,
+          "issueCount": 3
+        },
+        {
+          "year": 2013,
+          "articleCount": 31,
+          "issueCount": 3
+        },
+        {
+          "year": 2012,
+          "articleCount": 37,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 22,
+          "issueCount": 2
+        },
+        {
+          "year": 2010,
+          "articleCount": 24,
+          "issueCount": 2
+        },
+        {
+          "year": 2009,
+          "articleCount": 25,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/1981-8106.json",
+      "officialSiteUrl": "https://www.periodicos.rc.biblioteca.unesp.br/index.php/educacao/about",
+      "officialOaiUrl": "https://www.periodicos.rc.biblioteca.unesp.br/index.php/educacao/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T14:21:17.987Z",
+        "dataUrl": "/data/comparisons/1981-8106.json",
+        "officialArticleCount": 974,
+        "officialInCoverageCount": 768,
+        "matchedCount": 686,
+        "missingCount": 82,
+        "outsideCoverageCount": 206,
+        "educaCoverageStart": 2009,
+        "educaCoverageEnd": null
+      }
+    },
+    {
+      "id": "0104-4060",
+      "title": "Educar em Revista",
+      "status": "Ativo",
+      "publisher": "Setor de Educação da Universidade Federal do Paraná",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0104-4060",
+      "onlineIssn": "1984-0411",
+      "mission": "A Educar em Revista tem a missão de publicar em fluxo contínuo artigos originais oriundos de pesquisa na área educacional, assim como traduções, entrevistas e documentos de amplo interesse acadêmico. Tem como propósito abordar questões atuais e significativas para a compreensão dos fenômenos educativos, e aceita trabalhos diretamente relacionados à área de Educação.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Educar em Revista, Volume: 41",
+      "issueCount": 82,
+      "catalogIssueCount": 82,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 1595,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0104-4060&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0104-4060&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0104-4060&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://revistas.ufpr.br/educar",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1983-2117",
+      "title": "Ensaio Pesquisa em Educação em Ciências",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Minas Gerais",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1415-2150",
+      "onlineIssn": "1983-2117",
+      "mission": "Periódico de fluxo contínuo arbitrado que publica relatos de pesquisa, revisões críticas de literatura e discussões fundamentais de temas relacionados à educação em ciências da natureza em todos os níveis de ensino e diversos contextos educacionais. Seu propósito é contribuir com professores e pesquisadores no aprimoramento de uma cultura de publicações que combine rigor acadêmico com relevância para a prática.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Ensaio Pesquisa em Educação em Ciências , Volume: 27",
+      "issueCount": 53,
+      "catalogIssueCount": 53,
+      "firstIndexedYear": 1999,
+      "latestIndexedYear": 2025,
+      "articleCount": 647,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1983-2117&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1983-2117&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1983-2117&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 33,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 32,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 30,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 25,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 27,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 44,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 28,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 24,
+          "issueCount": 1
+        },
+        {
+          "year": 2017,
+          "articleCount": 33,
+          "issueCount": 1
+        },
+        {
+          "year": 2016,
+          "articleCount": 21,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 42,
+          "issueCount": 4
+        },
+        {
+          "year": 2014,
+          "articleCount": 32,
+          "issueCount": 3
+        },
+        {
+          "year": 2013,
+          "articleCount": 34,
+          "issueCount": 3
+        },
+        {
+          "year": 2012,
+          "articleCount": 45,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 33,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 33,
+          "issueCount": 3
+        },
+        {
+          "year": 2009,
+          "articleCount": 17,
+          "issueCount": 2
+        },
+        {
+          "year": 2008,
+          "articleCount": 18,
+          "issueCount": 2
+        },
+        {
+          "year": 2007,
+          "articleCount": 18,
+          "issueCount": 2
+        },
+        {
+          "year": 2006,
+          "articleCount": 11,
+          "issueCount": 2
+        },
+        {
+          "year": 2005,
+          "articleCount": 15,
+          "issueCount": 3
+        },
+        {
+          "year": 2004,
+          "articleCount": 9,
+          "issueCount": 2
+        },
+        {
+          "year": 2003,
+          "articleCount": 9,
+          "issueCount": 2
+        },
+        {
+          "year": 2002,
+          "articleCount": 10,
+          "issueCount": 2
+        },
+        {
+          "year": 2001,
+          "articleCount": 10,
+          "issueCount": 2
+        },
+        {
+          "year": 2000,
+          "articleCount": 9,
+          "issueCount": 2
+        },
+        {
+          "year": 1999,
+          "articleCount": 5,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/1983-2117.json",
+      "officialSiteUrl": "https://periodicos.ufmg.br/index.php/ensaio/about",
+      "officialOaiUrl": "https://periodicos.ufmg.br/index.php/ensaio/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T14:23:07.939Z",
+        "dataUrl": "/data/comparisons/1983-2117.json",
+        "officialArticleCount": 728,
+        "officialInCoverageCount": 728,
+        "matchedCount": 648,
+        "missingCount": 80,
+        "outsideCoverageCount": 0,
+        "educaCoverageStart": 1999,
+        "educaCoverageEnd": null
+      }
+    },
+    {
+      "id": "0104-4036",
+      "title": "Ensaio: Avaliação e Políticas Públicas em Educação",
+      "status": "Ativo",
+      "publisher": "Fundação CESGRANRIO",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0104-4036",
+      "onlineIssn": "1809-4465",
+      "mission": "Divulgar pesquisas, levantamentos, estudos, discussões e outros trabalhos críticos no campo da educação, concentrando-se nas questões de avaliação e políticas públicas e enfatizando as experiências e perspectivas brasileiras.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Ensaio: Avaliação e Políticas Públicas em Educação, Volume: 34, Número: 131",
+      "issueCount": 131,
+      "catalogIssueCount": 131,
+      "firstIndexedYear": 1993,
+      "latestIndexedYear": 2026,
+      "articleCount": 1210,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0104-4036&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0104-4036&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0104-4036&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 16,
+          "issueCount": 2
+        },
+        {
+          "year": 2025,
+          "articleCount": 54,
+          "issueCount": 4
+        },
+        {
+          "year": 2024,
+          "articleCount": 57,
+          "issueCount": 4
+        },
+        {
+          "year": 2023,
+          "articleCount": 55,
+          "issueCount": 4
+        },
+        {
+          "year": 2022,
+          "articleCount": 50,
+          "issueCount": 4
+        },
+        {
+          "year": 2021,
+          "articleCount": 49,
+          "issueCount": 4
+        },
+        {
+          "year": 2020,
+          "articleCount": 48,
+          "issueCount": 4
+        },
+        {
+          "year": 2019,
+          "articleCount": 36,
+          "issueCount": 4
+        },
+        {
+          "year": 2018,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 2017,
+          "articleCount": 41,
+          "issueCount": 4
+        },
+        {
+          "year": 2016,
+          "articleCount": 41,
+          "issueCount": 4
+        },
+        {
+          "year": 2015,
+          "articleCount": 40,
+          "issueCount": 4
+        },
+        {
+          "year": 2014,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 2013,
+          "articleCount": 33,
+          "issueCount": 4
+        },
+        {
+          "year": 2012,
+          "articleCount": 34,
+          "issueCount": 4
+        },
+        {
+          "year": 2011,
+          "articleCount": 40,
+          "issueCount": 4
+        },
+        {
+          "year": 2010,
+          "articleCount": 39,
+          "issueCount": 4
+        },
+        {
+          "year": 2009,
+          "articleCount": 32,
+          "issueCount": 4
+        },
+        {
+          "year": 2008,
+          "articleCount": 24,
+          "issueCount": 3
+        },
+        {
+          "year": 2007,
+          "articleCount": 30,
+          "issueCount": 4
+        },
+        {
+          "year": 2006,
+          "articleCount": 28,
+          "issueCount": 4
+        },
+        {
+          "year": 2005,
+          "articleCount": 28,
+          "issueCount": 4
+        },
+        {
+          "year": 2004,
+          "articleCount": 30,
+          "issueCount": 4
+        },
+        {
+          "year": 2003,
+          "articleCount": 33,
+          "issueCount": 4
+        },
+        {
+          "year": 2002,
+          "articleCount": 29,
+          "issueCount": 4
+        },
+        {
+          "year": 2001,
+          "articleCount": 26,
+          "issueCount": 4
+        },
+        {
+          "year": 2000,
+          "articleCount": 29,
+          "issueCount": 4
+        },
+        {
+          "year": 1999,
+          "articleCount": 24,
+          "issueCount": 4
+        },
+        {
+          "year": 1998,
+          "articleCount": 25,
+          "issueCount": 4
+        },
+        {
+          "year": 1997,
+          "articleCount": 27,
+          "issueCount": 4
+        },
+        {
+          "year": 1996,
+          "articleCount": 36,
+          "issueCount": 4
+        },
+        {
+          "year": 1995,
+          "articleCount": 44,
+          "issueCount": 4
+        },
+        {
+          "year": 1994,
+          "articleCount": 43,
+          "issueCount": 4
+        },
+        {
+          "year": 1993,
+          "articleCount": 11,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/0104-4036.json",
+      "officialSiteUrl": "https://revistas.cesgranrio.org.br/index.php/ensaio/issue/archive",
+      "officialOaiUrl": "https://revistas.cesgranrio.org.br/index.php/ensaio/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:14:39.293Z",
+        "dataUrl": "/data/comparisons/0104-4036.json",
+        "officialArticleCount": 847,
+        "officialInCoverageCount": 847,
+        "matchedCount": 796,
+        "missingCount": 51,
+        "outsideCoverageCount": 0,
+        "educaCoverageStart": 1993,
+        "educaCoverageEnd": 2026,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2004,
+        "officialCoverageEnd": 2025
+      }
+    },
+    {
+      "id": "1983-1730",
+      "title": "Ensino em Re-Vista",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Uberlândia",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "1983-1730",
+      "mission": "O Periódico ENSINO EM RE-VISTA dedica-se à publicação de textos científicos atinentes aos processos pedagógicos que abrangem diferentes âmbitos da Educação, tempos e espaços educativos diversos, como forma de efetivar o debate e a reflexão e de promover a divulgação da produção científica nos âmbitos nacional e internacional.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Ensino em Re-Vista, Volume: 32",
+      "issueCount": 13,
+      "catalogIssueCount": 13,
+      "firstIndexedYear": 2019,
+      "latestIndexedYear": 2025,
+      "articleCount": 355,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1983-1730&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1983-1730&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1983-1730&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 29,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 48,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 46,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 51,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 60,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 67,
+          "issueCount": 4
+        },
+        {
+          "year": 2019,
+          "articleCount": 54,
+          "issueCount": 4
+        }
+      ],
+      "detailsUrl": "/data/journals/1983-1730.json",
+      "officialSiteUrl": "https://seer.ufu.br/index.php/emrevista/about",
+      "officialOaiUrl": "https://seer.ufu.br/index.php/emrevista/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T14:24:44.755Z",
+        "dataUrl": "/data/comparisons/1983-1730.json",
+        "officialArticleCount": 985,
+        "officialInCoverageCount": 426,
+        "matchedCount": 359,
+        "missingCount": 67,
+        "outsideCoverageCount": 559,
+        "educaCoverageStart": 2019,
+        "educaCoverageEnd": null
+      }
+    },
+    {
+      "id": "0103-6831",
+      "title": "Estudos em Avaliação Educacional",
+      "status": "Ativo",
+      "publisher": "Fundação Carlos Chagas",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0103-6831",
+      "onlineIssn": "1984-932X",
+      "mission": "Estudos em Avaliação Educacional é um periódico científico de publicação contínua da Fundação Carlos Chagas (FCC). Criado em 1990, tem como objetivo divulgar a produção acadêmica relacionada com a avaliação educacional e a análise de políticas e programas que dialogam com a avaliação e/ou venham a subsidiar estudos avaliativos, acolhendo trabalhos originários de diferentes áreas das ciências humanas, com perspectivas teóricas e metodológicas diversas, propiciando a troca de informações e o debate acadêmico. Publica trabalhos inéditos, apresentados sob a forma de artigo científico, relato de experiência, ensaio teórico-metodológico e resenha. Eventualmente, publica entrevistas propostas e organizadas pelo Comitê Editorial ou por especialistas e pesquisadores da área.",
+      "creationYear": 1990,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Estudos em Avaliação Educacional, Volume: 37",
+      "issueCount": 84,
+      "catalogIssueCount": 84,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 797,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0103-6831&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0103-6831&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0103-6831&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "http://publicacoes.fcc.org.br/index.php/eae",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1676-2592",
+      "title": "ETD Educação Temática Digital",
+      "status": "Ativo",
+      "publisher": "Universidade Estadual de Campinas - UNICAMP",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "1676-2592",
+      "mission": "A ETD - Educação Temática Digital é uma publicação eletrônica multidisciplinar, que se dedica à publicação de artigos da comunidade científica nacional e internacional que investiguem questões de interesse do campo educacional e áreas afins, tendo como objetivo a contribuição para a formação do pesquisador da área de Educação por meio da divulgação e disseminação de pesquisas e estudos realizados por educadores, vinculados a instituições nacionais e estrangeiras. É exclusivamente digital com acesso livre.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "ETD Educação Temática Digital, Volume: 26",
+      "issueCount": 61,
+      "catalogIssueCount": 61,
+      "firstIndexedYear": 2006,
+      "latestIndexedYear": 2024,
+      "articleCount": 977,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1676-2592&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1676-2592&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1676-2592&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2024,
+          "articleCount": 63,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 72,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 51,
+          "issueCount": 4
+        },
+        {
+          "year": 2021,
+          "articleCount": 54,
+          "issueCount": 4
+        },
+        {
+          "year": 2020,
+          "articleCount": 51,
+          "issueCount": 4
+        },
+        {
+          "year": 2019,
+          "articleCount": 57,
+          "issueCount": 4
+        },
+        {
+          "year": 2018,
+          "articleCount": 57,
+          "issueCount": 4
+        },
+        {
+          "year": 2017,
+          "articleCount": 65,
+          "issueCount": 5
+        },
+        {
+          "year": 2016,
+          "articleCount": 40,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 40,
+          "issueCount": 3
+        },
+        {
+          "year": 2014,
+          "articleCount": 33,
+          "issueCount": 3
+        },
+        {
+          "year": 2013,
+          "articleCount": 36,
+          "issueCount": 3
+        },
+        {
+          "year": 2012,
+          "articleCount": 41,
+          "issueCount": 2
+        },
+        {
+          "year": 2011,
+          "articleCount": 51,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 34,
+          "issueCount": 3
+        },
+        {
+          "year": 2009,
+          "articleCount": 55,
+          "issueCount": 3
+        },
+        {
+          "year": 2008,
+          "articleCount": 72,
+          "issueCount": 3
+        },
+        {
+          "year": 2007,
+          "articleCount": 83,
+          "issueCount": 4
+        },
+        {
+          "year": 2006,
+          "articleCount": 22,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/1676-2592.json",
+      "officialSiteUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/etd/about",
+      "officialOaiUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/etd/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:35:58.591Z",
+        "dataUrl": "/data/comparisons/1676-2592.json",
+        "officialArticleCount": 1280,
+        "officialInCoverageCount": 1051,
+        "matchedCount": 964,
+        "missingCount": 87,
+        "outsideCoverageCount": 229,
+        "educaCoverageStart": 2006,
+        "educaCoverageEnd": 2024,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1999,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2236-5907",
+      "title": "Fineduca: Revista de Financiamento da Educação",
+      "status": "Ativo",
+      "publisher": "Associação Nacional de Pesquisa em Financiamento da Educação",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2236-5907",
+      "mission": "Pretende ser um canal democrático e plural de veiculação de diferentes análises, abordagens e concepções acerca do financiamento educacional.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Fineduca: Revista de Financiamento da Educação, Volume: 15",
+      "issueCount": 3,
+      "catalogIssueCount": 3,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 60,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2236-5907&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2236-5907&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2236-5907&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://seer.ufrgs.br/fineduca",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2236-3459",
+      "title": "História da Educação",
+      "status": "Ativo",
+      "publisher": "Associação Sul-Rio-Grandense de Pesquisadores em História da Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1414-3518",
+      "onlineIssn": "2236-3459",
+      "mission": "História da Educação é publicada no Brasil desde 1997, com periodicidade quadrimestral. Tem como cobertura temática a área de História da Educação e por missão constituir-se num veículo de divulgação de estudos do campo historiográfico educacional. Objetiva, sobretudo, divulgar resultados de pesquisas realizadas por professores e estudantes de graduação e pós-graduação e tem como público alvo professores, estudantes, pesquisadores e interessados em história da educação.",
+      "creationYear": null,
+      "periodicity": "Quadrimestral",
+      "latestLabel": "História da Educação, Volume: 28",
+      "issueCount": 25,
+      "catalogIssueCount": 25,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 484,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2236-3459&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2236-3459&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2236-3459&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://seer.ufrgs.br/asphe/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "0101-7136",
+      "title": "Inter-Ação",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Goiás",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0101-7136",
+      "onlineIssn": "1981-8416",
+      "mission": "A revista Inter-Ação, que circula desde 1975, é uma publicação quadrimestral da Faculdade de Educação da Universidade Federal de Goiás vinculada ao Programa de Pós-Graduação em Educação da FE/UFG. Atualmente, está classificada como Qualis/Capes B1 e encontra-se indexada pelos seguintes indexadores: Redalyc, Edubase, Iresie, BBE CIBEC/INEP/MEC, IBICT/SEER, Latindex, Doaj, Clase, Ulrich's Periodicals Directory e EZB (Electronic Journals Library). Com importância reconhecida pela área, a Inter-Ação, cuja periodicidade se encontra em dia, mantendo-se a regularidade de três números por ano, tem ampla circulação por meio de assinaturas, permutas, doações e vendas, além de estar totalmente disponível online, já portando, desde 2010, o Digital Object Identifier (DOI), utilizado para identificar o conteúdo de documentos em ambiente digital, mesmo que posteriormente eles mudem de endereço ou link.",
+      "creationYear": null,
+      "periodicity": "Quadrimestral",
+      "latestLabel": "Inter-Ação, Volume: 48, Número: 1",
+      "issueCount": 17,
+      "catalogIssueCount": 17,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 217,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0101-7136&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0101-7136&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0101-7136&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://revistas.ufg.br/interacao",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1981-1969",
+      "title": "Jornal de Políticas Educacionais",
+      "status": "Ativo",
+      "publisher": "Núcleo de Políticas Educacionais da Universidade Federal do Paraná",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "1981-1969",
+      "mission": "O Jornal de Políticas Educacionais tem como finalidade publicar artigos inéditos na área de Políticas Educacionais, abrangendo temáticas que envolvam a análise de políticas em todos os níveis e modalidades de ensino, bem como a avaliação de políticas educacionais, planejamento e gestão educacional, financiamento da educação, educação comparada, entre outras temáticas desse campo de conhecimento",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Jornal de Políticas Educacionais, Volume: 19",
+      "issueCount": 7,
+      "catalogIssueCount": 7,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 278,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1981-1969&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1981-1969&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1981-1969&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://revistas.ufpr.br/jpe",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2526-8449",
+      "title": "Linguagens, Educação e Sociedade (LES)",
+      "status": "Ativo",
+      "publisher": "Universidade Federal do Piauí",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1518-0743",
+      "onlineIssn": "2526-8449",
+      "mission": "Contribuir na democratização e difusão do conhecimento científico na área da educação, favorecendo o intercâmbio e o debate entre pesquisadores brasileiros e estrangeiros.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Linguagens, Educação e Sociedade (LES), Volume: 29, Número: 59",
+      "issueCount": 4,
+      "catalogIssueCount": 4,
+      "firstIndexedYear": 2024,
+      "latestIndexedYear": 2025,
+      "articleCount": 94,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2526-8449&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2526-8449&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2526-8449&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 18,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 76,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2526-8449.json",
+      "officialSiteUrl": "https://periodicos.ufpi.br/index.php/lingedusoc/",
+      "officialOaiUrl": "https://periodicos.ufpi.br/index.php/lingedusoc/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "partial",
+        "comparedAt": "2026-10-07T15:08:51.433Z",
+        "dataUrl": "/data/comparisons/2526-8449.json",
+        "officialArticleCount": 628,
+        "officialInCoverageCount": 0,
+        "matchedCount": 0,
+        "missingCount": 0,
+        "outsideCoverageCount": 628,
+        "educaCoverageStart": 2024,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "partial",
+        "officialCoverageStart": 1996,
+        "officialCoverageEnd": 2023
+      }
+    },
+    {
+      "id": "1981-0431",
+      "title": "Linhas Críticas",
+      "status": "Ativo",
+      "publisher": "Universidade de Brasília",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1516-4896",
+      "onlineIssn": "1981-0431",
+      "mission": "Publicar, de forma gratuita e contínua, manuscritos relevantes de pesquisadores da área educacional, que apresentem consistência, rigor e originalidade, criando valor agregado para as publicações através da divulgação em plataformas tradicionais e alternativas, contribuindo assim para o aumento do número de leituras e citações, e também para a democratização da ciência.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Linhas Críticas, Volume: 30",
+      "issueCount": 38,
+      "catalogIssueCount": 38,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 684,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1981-0431&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1981-0431&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1981-0431&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.unb.br/index.php/linhascriticas/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2526-7647",
+      "title": "Obutchénie. Revista de Didática e Psicologia Pedagógica",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Uberlândia",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2526-7647",
+      "mission": "A Revista Obutchénie tem como missão estabelecer interlocução entre as(os) profissionais da Educação Básica e Superior, a comunidade educacional e os psicólogos vinculados à aprendizagem e ao desenvolvimento humano, no sentido de estimular a reflexão e a análise, em diferentes âmbitos, sobre a Didática Desenvolvimental, a aprendizagem escolar e seu papel no desenvolvimento psíquico e subjetivos dos alunos. Procura incentivar à investigação e o debate acadêmico acerca dos processos de ensino-aprendizagem-desenvolvimento, formação de professores, práticas de ensino, aspectos históricos, biografias e fundamentos epistemológicos e metodológicos do ensino numa perspectiva materialista dialética; prestando-se como instrumento de divulgação do conhecimento, especialmente, nas áreas de didática e psicologia pedagógica, tendo, como aspiração: (a) Divulgar pesquisas e textos de caráter científico nas áreas de Didática e Psicologia Pedagógica; (b) Fomentar intercâmbio de estudos em sua especialidade com outras instituições, nacionais ou estrangeiras, que mantenham publicações congêneres.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Obutchénie. Revista de Didática e Psicologia Pedagógica, Volume: 8",
+      "issueCount": 7,
+      "catalogIssueCount": 7,
+      "firstIndexedYear": 2022,
+      "latestIndexedYear": 2024,
+      "articleCount": 118,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2526-7647&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2526-7647&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2526-7647&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2024,
+          "articleCount": 42,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 40,
+          "issueCount": 3
+        },
+        {
+          "year": 2022,
+          "articleCount": 36,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2526-7647.json",
+      "officialSiteUrl": "https://seer.ufu.br/index.php/Obutchenie/index",
+      "officialOaiUrl": "https://seer.ufu.br/index.php/Obutchenie/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:09:35.894Z",
+        "dataUrl": "/data/comparisons/2526-7647.json",
+        "officialArticleCount": 433,
+        "officialInCoverageCount": 229,
+        "matchedCount": 123,
+        "missingCount": 106,
+        "outsideCoverageCount": 204,
+        "educaCoverageStart": 2022,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2017,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "1984-0187",
+      "title": "Olhar de Professor",
+      "status": "Ativo",
+      "publisher": "Universidade Estadual de Ponta Grossa",
+      "area": "EXACT AND EARTH SCIENCES",
+      "printIssn": "1518-5648",
+      "onlineIssn": "1984-0187",
+      "mission": "A Revista Olhar de Professor é um periódico acadêmico, de fluxo contínuo proposto pela Universidade Estadual de Ponta Grossa UEPG, Paraná, Brasil. Desde 1998, vem divulgando pesquisas e estudos relacionados à educação e à formação de professores. Publica artigos científicos e, conforme o fluxo existente, reflexões sobre experiências pedagógicas significativas, resenhas, entrevistas e textos de palestras proferidas que tragam a produção de pesquisadores ligados à pesquisa e a docência na grande área da educação. É dirigida a professores e pesquisadores, assim como a estudantes de graduação e pós-graduação das áreas de Educação e das Ciências Humanas.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Olhar de Professor, Volume: 28",
+      "issueCount": 1,
+      "catalogIssueCount": 1,
+      "firstIndexedYear": 2025,
+      "latestIndexedYear": 2025,
+      "articleCount": 38,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1984-0187&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1984-0187&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1984-0187&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 38,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/1984-0187.json",
+      "officialSiteUrl": "https://revistas.uepg.br/index.php/olhardeprofessor/index",
+      "officialOaiUrl": "https://revistas.uepg.br/index.php/olhardeprofessor/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:11:17.396Z",
+        "dataUrl": "/data/comparisons/1984-0187.json",
+        "officialArticleCount": 928,
+        "officialInCoverageCount": 85,
+        "matchedCount": 38,
+        "missingCount": 47,
+        "outsideCoverageCount": 843,
+        "educaCoverageStart": 2025,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1998,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2675-519X",
+      "title": "Práticas Educativas, Memórias e Oralidades",
+      "status": "Ativo",
+      "publisher": "Universidade Estadual do Ceará",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2675-519X",
+      "mission": "O escopo da revista Práticas Educativas, Memórias e Oralidades (Rev.Pemo) é publicar artigos e produtos pedagógicos originais, nacionais e internacionais, derivados de resultados de pesquisas acadêmicas, que contribuam para o avanço do conhecimento ou para a melhoria da vida em sociedade. O foco são artigos científicos derivados de pesquisas empíricas e produtos pedagógicos (técnicos/tecnológicos) com ênfase nas Ciências Humanas, de forma interdisciplinar, considerando o ensino e a aprendizagem, que colaboram com a ampliação do conhecimento no que diz respeito à qualificação das práticas educativas e à valorização de memórias e oralidades de estudantes e professores do ensino básico e superior. Valoriza a educação e o ensino, divulgando conhecimentos na interface de diversas licenciaturas - Pedagogia, História, Letras, Geografia, Filosofia, Ciências Sociais, Artes Visuais e afins.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Práticas Educativas, Memórias e Oralidades, Volume: 7",
+      "issueCount": 1,
+      "catalogIssueCount": 1,
+      "firstIndexedYear": 2025,
+      "latestIndexedYear": 2025,
+      "articleCount": 32,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2675-519X&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2675-519X&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2675-519X&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 32,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/2675-519X.json",
+      "officialSiteUrl": "https://revistas.uece.br/index.php/revpemo",
+      "officialOaiUrl": "https://revistas.uece.br/index.php/revpemo/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:13:05.569Z",
+        "dataUrl": "/data/comparisons/2675-519X.json",
+        "officialArticleCount": 615,
+        "officialInCoverageCount": 196,
+        "matchedCount": 35,
+        "missingCount": 161,
+        "outsideCoverageCount": 419,
+        "educaCoverageStart": 2025,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2019,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "1809-4309",
+      "title": "Práxis Educativa",
+      "status": "Ativo",
+      "publisher": "Programa de Pós-Graduação em Educação - Ponta Grossa",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1809-4031",
+      "onlineIssn": "1809-4309",
+      "mission": "A Revista Práxis Educativa, editada sob a responsabilidade do Programa de Pós-Graduação em Educação (Mestrado e Doutorado), da Universidade Estadual de Ponta Grossa, tem como objetivo publicar trabalhos que contribuam para o seu campo específico de investigação e que possam servir de referência para outros trabalhos de pesquisa. A revista prioriza a publicação de textos inéditos e de pesquisas já concluídas.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Práxis Educativa, Volume: 21",
+      "issueCount": 40,
+      "catalogIssueCount": 40,
+      "firstIndexedYear": 2006,
+      "latestIndexedYear": 2026,
+      "articleCount": 985,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1809-4309&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1809-4309&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1809-4309&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 5,
+          "issueCount": 1
+        },
+        {
+          "year": 2025,
+          "articleCount": 99,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 110,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 65,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 90,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 72,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 97,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 60,
+          "issueCount": 3
+        },
+        {
+          "year": 2018,
+          "articleCount": 54,
+          "issueCount": 3
+        },
+        {
+          "year": 2017,
+          "articleCount": 51,
+          "issueCount": 3
+        },
+        {
+          "year": 2016,
+          "articleCount": 43,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 23,
+          "issueCount": 2
+        },
+        {
+          "year": 2014,
+          "articleCount": 25,
+          "issueCount": 2
+        },
+        {
+          "year": 2013,
+          "articleCount": 28,
+          "issueCount": 2
+        },
+        {
+          "year": 2012,
+          "articleCount": 38,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 26,
+          "issueCount": 2
+        },
+        {
+          "year": 2010,
+          "articleCount": 19,
+          "issueCount": 2
+        },
+        {
+          "year": 2009,
+          "articleCount": 18,
+          "issueCount": 2
+        },
+        {
+          "year": 2008,
+          "articleCount": 24,
+          "issueCount": 2
+        },
+        {
+          "year": 2007,
+          "articleCount": 17,
+          "issueCount": 2
+        },
+        {
+          "year": 2006,
+          "articleCount": 21,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/1809-4309.json",
+      "officialSiteUrl": "https://revistas.uepg.br/index.php/praxiseducativa/about",
+      "officialOaiUrl": "https://revistas.uepg.br/index.php/praxiseducativa/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:15:54.334Z",
+        "dataUrl": "/data/comparisons/1809-4309.json",
+        "officialArticleCount": 1055,
+        "officialInCoverageCount": 1055,
+        "matchedCount": 961,
+        "missingCount": 94,
+        "outsideCoverageCount": 0,
+        "educaCoverageStart": 2006,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2006,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2175-3520",
+      "title": "Psicologia da Educação",
+      "status": "Ativo",
+      "publisher": "Pontifícia Universidade Católica de São Paulo. Programa de Estudos Pós-Graduados em Educação: Psicologia da Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1414-6975",
+      "onlineIssn": "2175-3520",
+      "mission": "A revista publica artigos e relatórios de pesquisa inéditos na área de Psicologia da Educação e afins, bem como resenhas de livros, teses, dissertações e traduções de autoria de docentes e pesquisadores da Pontifícia Universidade Católica de São Paulo e de outras instituições.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Psicologia da Educação, Número: 59",
+      "issueCount": 20,
+      "catalogIssueCount": 20,
+      "firstIndexedYear": 2015,
+      "latestIndexedYear": 2025,
+      "articleCount": 206,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2175-3520&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2175-3520&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2175-3520&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 23,
+          "issueCount": 2
+        },
+        {
+          "year": 2024,
+          "articleCount": 12,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 10,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 22,
+          "issueCount": 2
+        },
+        {
+          "year": 2021,
+          "articleCount": 21,
+          "issueCount": 2
+        },
+        {
+          "year": 2020,
+          "articleCount": 23,
+          "issueCount": 2
+        },
+        {
+          "year": 2019,
+          "articleCount": 20,
+          "issueCount": 2
+        },
+        {
+          "year": 2018,
+          "articleCount": 19,
+          "issueCount": 2
+        },
+        {
+          "year": 2017,
+          "articleCount": 18,
+          "issueCount": 2
+        },
+        {
+          "year": 2016,
+          "articleCount": 19,
+          "issueCount": 2
+        },
+        {
+          "year": 2015,
+          "articleCount": 19,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/2175-3520.json",
+      "officialSiteUrl": "https://revistas.pucsp.br/index.php/psicoeduca/about",
+      "officialOaiUrl": "https://revistas.pucsp.br/index.php/psicoeduca/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:16:26.174Z",
+        "dataUrl": "/data/comparisons/2175-3520.json",
+        "officialArticleCount": 558,
+        "officialInCoverageCount": 223,
+        "matchedCount": 207,
+        "missingCount": 16,
+        "outsideCoverageCount": 335,
+        "educaCoverageStart": 2015,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1995,
+        "officialCoverageEnd": 2025
+      }
+    },
+    {
+      "id": "1982-9949",
+      "title": "Reflexão e Ação",
+      "status": "Ativo",
+      "publisher": "Editora da Universidade de Santa Cruz do Sul - EDUNISC",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "1982-9949",
+      "mission": "Reflexão e Ação é um canal de discussão das problemáticas contemporâneas da área educacional, compreendidas em sua historicidade e complexidade contemporânea. Desse modo, se constitui em instrumento de divulgação da produção científica de pesquisadores da área da educação e afins, que em seu conjunto, constituem um processo de mediação entre a ação e a reflexão da práxis pedagógica. Conta, para tanto, com a contribuição de educadores e pesquisadores ligados a instituições de expressão nacional e/ou internacional.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Reflexão e Ação, Volume: 33",
+      "issueCount": 37,
+      "catalogIssueCount": 37,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 541,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1982-9949&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1982-9949&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1982-9949&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://online.unisc.br/seer/index.php/reflex/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2318-1338",
+      "title": "Regae: Revista de Gestão e Avaliação Educacional",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Santa Maria",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2318-1338",
+      "mission": "A Regae: Revista de Gestão e Avaliação Educacional é publicada no Brasil, desde 2009, no formato de publicação contínua. Tem como cobertura temática as áreas de administração escolar, gestão escolar, políticas educacionais, avaliação educacional e avaliação institucional. A sua missão é constituir-se num veículo de divulgação de estudos do campo da educação. Tem como público alvo professores, estudantes, pesquisadores e dirigentes de instituições escolares.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Regae: Revista de Gestão e Avaliação Educacional, Volume: 12, Número: 21",
+      "issueCount": 3,
+      "catalogIssueCount": 3,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 74,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2318-1338&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2318-1338&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2318-1338&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.ufsm.br/regae",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1413-2478",
+      "title": "Revista Brasileira de Educação",
+      "status": "Ativo",
+      "publisher": "ANPEd - Associação Nacional de Pós-Graduação e Pesquisa em Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1413-2478",
+      "onlineIssn": "1809-449X",
+      "mission": "Publicação de artigos acadêmico- científicos, fomentando e facilitando o intercâmbio acadêmico no âmbito nacional e internacional.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Brasileira de Educação, Volume: 31",
+      "issueCount": 80,
+      "catalogIssueCount": 80,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 1339,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1413-2478&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1413-2478&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1413-2478&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "http://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1413-2478&lng=pt&nrm=iso",
+      "officialOaiUrl": "http://educa.fcc.org.br/oai",
+      "officialSourceStatus": "oai-ready"
+    },
+    {
+      "id": "1413-6538",
+      "title": "Revista Brasileira de Educação Especial",
+      "status": "Ativo",
+      "publisher": "Associação Brasileira de Pesquisadores em Educação Especial - ABPEE",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1413-6538",
+      "onlineIssn": "1980-5470",
+      "mission": "Difundir conhecimento em educação especial.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Brasileira de Educação Especial, Volume: 32",
+      "issueCount": 79,
+      "catalogIssueCount": 79,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 950,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1413-6538&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1413-6538&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1413-6538&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://www.abpee.net/sobre.php",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1981-5271",
+      "title": "Revista Brasileira de Educação Médica",
+      "status": "Ativo",
+      "publisher": "Associação Brasileira de Educação Médica",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0100-5502",
+      "onlineIssn": "1981-5271",
+      "mission": "Ser um periódico proeminente no campo da educação médica e publicar material de alta qualidade sobre temas e perspectivas relevantes neste campo, incluindo a educação durante a graduação e pós-graduação, educação profissional continuada e educação interprofissional.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Brasileira de Educação Médica, Volume: 50, Número: 1",
+      "issueCount": 76,
+      "catalogIssueCount": 76,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 1596,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1981-5271&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1981-5271&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1981-5271&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://website.abem-educmed.org.br/publicacoes/rbem/",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2176-6681",
+      "title": "Revista Brasileira de Estudos Pedagógicos",
+      "status": "Ativo",
+      "publisher": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0034-7183",
+      "onlineIssn": "2176-6681",
+      "mission": "A Revista Brasileira de Estudos Pedagógicos (RBEP), criada em 1944, é um periódico quadrimestral, publicado em formato impresso e eletrônico. A RBEP publica artigos inéditos, resultantes de pesquisas que apresentem consistência, rigor e originalidade na abordagem do tema e que contribuam para a construção do conhecimento na área de Educação. A RBEP também publica relatos de experiência e resenhas. Não aceita textos que tenham sido enviados concomitantemente a outras revistas e que não atendam a princípios éticos de pesquisa. Seu público-leitor é formado por professores, pesquisadores e alunos de graduação e pós-graduação, bem como técnicos e gestores da área educacional.",
+      "creationYear": 1944,
+      "periodicity": "Quadrimestral",
+      "latestLabel": "Revista Brasileira de Estudos Pedagógicos, Volume: 106",
+      "issueCount": 45,
+      "catalogIssueCount": 45,
+      "firstIndexedYear": 2009,
+      "latestIndexedYear": 2025,
+      "articleCount": 551,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2176-6681&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2176-6681&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2176-6681&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 27,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 23,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 34,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 23,
+          "issueCount": 3
+        },
+        {
+          "year": 2021,
+          "articleCount": 30,
+          "issueCount": 3
+        },
+        {
+          "year": 2020,
+          "articleCount": 32,
+          "issueCount": 3
+        },
+        {
+          "year": 2019,
+          "articleCount": 32,
+          "issueCount": 3
+        },
+        {
+          "year": 2018,
+          "articleCount": 28,
+          "issueCount": 3
+        },
+        {
+          "year": 2017,
+          "articleCount": 39,
+          "issueCount": 3
+        },
+        {
+          "year": 2016,
+          "articleCount": 31,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 35,
+          "issueCount": 3
+        },
+        {
+          "year": 2014,
+          "articleCount": 32,
+          "issueCount": 3
+        },
+        {
+          "year": 2013,
+          "articleCount": 40,
+          "issueCount": 3
+        },
+        {
+          "year": 2012,
+          "articleCount": 44,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 36,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 32,
+          "issueCount": 3
+        },
+        {
+          "year": 2009,
+          "articleCount": 33,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2176-6681.json",
+      "officialSiteUrl": "https://rbep.inep.gov.br/ojs3/index.php/rbep/about",
+      "officialOaiUrl": "https://rbep.inep.gov.br/ojs3/index.php/rbep/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:20:30.257Z",
+        "dataUrl": "/data/comparisons/2176-6681.json",
+        "officialArticleCount": 1189,
+        "officialInCoverageCount": 700,
+        "matchedCount": 546,
+        "missingCount": 154,
+        "outsideCoverageCount": 489,
+        "educaCoverageStart": 2009,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1944,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2238-0094",
+      "title": "Revista Brasileira de História da Educação",
+      "status": "Ativo",
+      "publisher": "Sociedade Brasileira de História da Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1519-5902",
+      "onlineIssn": "2238-0094",
+      "mission": "A RBHE tem como objetivos a ampla circulação do conhecimento e a promoção da discussão em torno dos diferentes problemas que permeiam o campo de pesquisa e ensino da história da educação, a partir de uma perspectiva interdisciplinar e plural em termos teóricos e metodológicos. O periódico publica, também, dossiês, resenhas e entrevistas com personalidades de destaque nacional e internacional.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Brasileira de História da Educação, Volume: 25",
+      "issueCount": 36,
+      "catalogIssueCount": 36,
+      "firstIndexedYear": 2009,
+      "latestIndexedYear": 2025,
+      "articleCount": 559,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2238-0094&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2238-0094&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2238-0094&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 12,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 45,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 46,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 46,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 45,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 23,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 40,
+          "issueCount": 1
+        },
+        {
+          "year": 2017,
+          "articleCount": 40,
+          "issueCount": 4
+        },
+        {
+          "year": 2016,
+          "articleCount": 43,
+          "issueCount": 4
+        },
+        {
+          "year": 2015,
+          "articleCount": 30,
+          "issueCount": 3
+        },
+        {
+          "year": 2014,
+          "articleCount": 32,
+          "issueCount": 3
+        },
+        {
+          "year": 2013,
+          "articleCount": 29,
+          "issueCount": 3
+        },
+        {
+          "year": 2012,
+          "articleCount": 24,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 24,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 23,
+          "issueCount": 3
+        },
+        {
+          "year": 2009,
+          "articleCount": 17,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/2238-0094.json",
+      "officialSiteUrl": "http://periodicos.uem.br/ojs/index.php/rbhe/issue/archive",
+      "officialOaiUrl": "http://periodicos.uem.br/ojs/index.php/rbhe/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:22:10.253Z",
+        "dataUrl": "/data/comparisons/2238-0094.json",
+        "officialArticleCount": 803,
+        "officialInCoverageCount": 663,
+        "matchedCount": 552,
+        "missingCount": 111,
+        "outsideCoverageCount": 140,
+        "educaCoverageStart": 2009,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2001,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2447-4193",
+      "title": "Revista Brasileira de Política e Administração da Educação",
+      "status": "Ativo",
+      "publisher": "Associação Nacional de Política e Administração da Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1678-166X",
+      "onlineIssn": "2447-4193",
+      "mission": "A Revista Brasileira de Política e Administração da Educação (RBPAE) é uma publicação quadrimestral da Associação Nacional de Política e Administração da Educação (ANPAE), que tem por objetivo difundir estudos e experiências educacionais e promover o debate e a reflexão em torno de questões teóricas e práticas no campo da gestão da educação e seus processos de planejamento e de formulação e avaliação de políticas educacionais no âmbito dos sistemas de ensino, escolas, universidades e outros espaços públicos de educação e formação cidadã.",
+      "creationYear": null,
+      "periodicity": "Quadrimestral",
+      "latestLabel": "Revista Brasileira de Política e Administração da Educação, Volume: 40, Número: 1",
+      "issueCount": 15,
+      "catalogIssueCount": 15,
+      "firstIndexedYear": 2018,
+      "latestIndexedYear": 2024,
+      "articleCount": 346,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2447-4193&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2447-4193&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2447-4193&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2024,
+          "articleCount": 41,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 49,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 47,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 64,
+          "issueCount": 3
+        },
+        {
+          "year": 2020,
+          "articleCount": 60,
+          "issueCount": 3
+        },
+        {
+          "year": 2019,
+          "articleCount": 48,
+          "issueCount": 3
+        },
+        {
+          "year": 2018,
+          "articleCount": 37,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2447-4193.json",
+      "officialSiteUrl": "https://seer.ufrgs.br/index.php/rbpae/about",
+      "officialOaiUrl": "https://seer.ufrgs.br/index.php/rbpae/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:23:47.307Z",
+        "dataUrl": "/data/comparisons/2447-4193.json",
+        "officialArticleCount": 868,
+        "officialInCoverageCount": 440,
+        "matchedCount": 345,
+        "missingCount": 95,
+        "outsideCoverageCount": 428,
+        "educaCoverageStart": 2018,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2000,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "0104-7043",
+      "title": "Revista da FAEEBA: Educação e Contemporaneidade",
+      "status": "Ativo",
+      "publisher": "Universidade do Estado da Bahia",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0104-7043",
+      "onlineIssn": "2358-0194",
+      "mission": "Publicação trimestral temática que analisa e discute assuntos de interesse educacional, científico e cultural. Os pontos de vista apresentados são da exclusiva responsabilidade de seus autores.",
+      "creationYear": null,
+      "periodicity": "Trimestral",
+      "latestLabel": "Revista da FAEEBA: Educação e Contemporaneidade, Volume: 34, Número: 78",
+      "issueCount": 46,
+      "catalogIssueCount": 46,
+      "firstIndexedYear": 2009,
+      "latestIndexedYear": 2025,
+      "articleCount": 758,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0104-7043&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0104-7043&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0104-7043&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 36,
+          "issueCount": 2
+        },
+        {
+          "year": 2024,
+          "articleCount": 36,
+          "issueCount": 2
+        },
+        {
+          "year": 2023,
+          "articleCount": 73,
+          "issueCount": 4
+        },
+        {
+          "year": 2022,
+          "articleCount": 74,
+          "issueCount": 4
+        },
+        {
+          "year": 2021,
+          "articleCount": 71,
+          "issueCount": 4
+        },
+        {
+          "year": 2020,
+          "articleCount": 86,
+          "issueCount": 4
+        },
+        {
+          "year": 2019,
+          "articleCount": 35,
+          "issueCount": 3
+        },
+        {
+          "year": 2018,
+          "articleCount": 39,
+          "issueCount": 3
+        },
+        {
+          "year": 2017,
+          "articleCount": 40,
+          "issueCount": 3
+        },
+        {
+          "year": 2016,
+          "articleCount": 40,
+          "issueCount": 3
+        },
+        {
+          "year": 2015,
+          "articleCount": 30,
+          "issueCount": 2
+        },
+        {
+          "year": 2014,
+          "articleCount": 42,
+          "issueCount": 2
+        },
+        {
+          "year": 2013,
+          "articleCount": 20,
+          "issueCount": 1
+        },
+        {
+          "year": 2012,
+          "articleCount": 40,
+          "issueCount": 2
+        },
+        {
+          "year": 2011,
+          "articleCount": 39,
+          "issueCount": 2
+        },
+        {
+          "year": 2010,
+          "articleCount": 36,
+          "issueCount": 2
+        },
+        {
+          "year": 2009,
+          "articleCount": 21,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/0104-7043.json",
+      "officialSiteUrl": "https://www.revistas.uneb.br/index.php/faeeba/",
+      "officialOaiUrl": "https://www.revistas.uneb.br/index.php/faeeba/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:14:49.851Z",
+        "dataUrl": "/data/comparisons/0104-7043.json",
+        "officialArticleCount": 864,
+        "officialInCoverageCount": 784,
+        "matchedCount": 680,
+        "missingCount": 104,
+        "outsideCoverageCount": 80,
+        "educaCoverageStart": 2009,
+        "educaCoverageEnd": 2025,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1992,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2238-2097",
+      "title": "Revista de Educação Pública",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Mato Grosso, Instituto de Educação, Programa de Pós-Graduação em Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0104-5962",
+      "onlineIssn": "2238-2097",
+      "mission": "A Revista de Educação Pública  publicação quadrimestral articulada ao Mestrado e Doutorado do Programa de Pós-Graduação em Educação da Universidade Federal de Mato Grosso  objetiva contribuir para a divulgação de conhecimentos científicos pertinentes à área de Educação em meio à diferentes perspectivas teórico-metodológicas de análises, em tempos e espaços diversos, no sentido de fomentar e facilitar o intercâmbio de pesquisas produzidas dentro desse campo de saber, em âmbito regional, nacional e internacional, e assim, contribuir para o debate e enfrentamento dos problemas da educação brasileira em suas diferentes esferas. Além de seu formato eletrônico, a Revista também veicula nacional e internacionalmente em formato impresso.",
+      "creationYear": null,
+      "periodicity": "Quadrimestral",
+      "latestLabel": "Revista de Educação Pública, Volume: 32",
+      "issueCount": 39,
+      "catalogIssueCount": 39,
+      "firstIndexedYear": 2010,
+      "latestIndexedYear": 2023,
+      "articleCount": 564,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2238-2097&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2238-2097&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2238-2097&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2023,
+          "articleCount": 39,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 50,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 38,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 39,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 43,
+          "issueCount": 3
+        },
+        {
+          "year": 2018,
+          "articleCount": 47,
+          "issueCount": 4
+        },
+        {
+          "year": 2017,
+          "articleCount": 38,
+          "issueCount": 3
+        },
+        {
+          "year": 2016,
+          "articleCount": 43,
+          "issueCount": 4
+        },
+        {
+          "year": 2015,
+          "articleCount": 37,
+          "issueCount": 3
+        },
+        {
+          "year": 2014,
+          "articleCount": 34,
+          "issueCount": 3
+        },
+        {
+          "year": 2013,
+          "articleCount": 54,
+          "issueCount": 5
+        },
+        {
+          "year": 2012,
+          "articleCount": 34,
+          "issueCount": 3
+        },
+        {
+          "year": 2011,
+          "articleCount": 35,
+          "issueCount": 3
+        },
+        {
+          "year": 2010,
+          "articleCount": 33,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2238-2097.json",
+      "officialSiteUrl": "https://periodicoscientificos.ufmt.br/ojs/index.php/educacaopublica/about",
+      "officialOaiUrl": "https://periodicoscientificos.ufmt.br/ojs/index.php/educacaopublica/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:14:56.892Z",
+        "dataUrl": "/data/comparisons/2238-2097.json",
+        "officialArticleCount": 571,
+        "officialInCoverageCount": 419,
+        "matchedCount": 372,
+        "missingCount": 47,
+        "outsideCoverageCount": 152,
+        "educaCoverageStart": 2010,
+        "educaCoverageEnd": 2023,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1996,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "1519-3993",
+      "title": "Revista de Educação PUC-Campinas",
+      "status": "Ativo",
+      "publisher": "Programa de Pós-Graduação em Educação da Pontifícia Universidade Católica de Campinas",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1519-3993",
+      "onlineIssn": "2318-0870",
+      "mission": "Revista de Educação PUC-Campinas é uma publicação quadrimestral, editada pelo Programa de Pós-Graduação em Educação, Centro de Ciências Humanas e Sociais Aplicadas da Pontifícia Universidade Católica de Campinas. Destina-se à publicação de estudos e pesquisas científicas, de caráter teórico ou empírico, na área da Educação, visando à difusão do conhecimento e fomentando o debate acadêmico sobre temas de relevância no cenário educacional, nacional e internacional, que auxiliem a compreensão do fenômeno educativo na atualidade.",
+      "creationYear": null,
+      "periodicity": "Quadrimestral",
+      "latestLabel": "Revista de Educação PUC-Campinas, Volume: 31",
+      "issueCount": 38,
+      "catalogIssueCount": 38,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 496,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1519-3993&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1519-3993&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1519-3993&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.puc-campinas.edu.br/reveducacao/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2179-426X",
+      "title": "Revista de Ensino de Ciências e Matemática",
+      "status": "Ativo",
+      "publisher": "Universidade Cruzeiro do Sul (UCS)",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2179-426X",
+      "mission": "Ampliar e divulgar produção científica de elevada qualidade e relevância para o campo da pesquisa e a prática profissional na área de Ensino de Ciências e Matemática, divulgando o conhecimento produzido e sistematizado a investigação científica.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista de Ensino de Ciências e Matemática, Volume: 16, Número: 2",
+      "issueCount": 10,
+      "catalogIssueCount": 10,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 123,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2179-426X&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2179-426X&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2179-426X&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://revistapos.cruzeirodosul.edu.br/rencima/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1981-416x",
+      "title": "Revista Diálogo Educacional",
+      "status": "Ativo",
+      "publisher": "Pontifícia Universidade Católica do Paraná (PUCPR)",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1518-3483",
+      "onlineIssn": "1981-416X",
+      "mission": "Publicar trabalhos originais e inéditos que contribuam para o desenvolvimento da ciência da área da educação. Abordando temas emergentes capazes de suscitar a troca de informações, bem como debate de questões neste campo de conhecimento.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Diálogo Educacional, Volume: 25, Número: 87",
+      "issueCount": 71,
+      "catalogIssueCount": 71,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 1156,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1981-416x&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1981-416x&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1981-416x&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.pucpr.br/dialogoeducacional/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1809-3876",
+      "title": "Revista e-Curriculum",
+      "status": "Ativo",
+      "publisher": "Pontifícia Universidade Católica de São Paulo",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "1809-3876",
+      "mission": "A Revista e-Curriculum, de publicação trimestral (março, junho, setembro e dezembro), com qualificação A2 (Qualis) pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), mantém um fluxo contínuo para submissão de trabalhos.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Revista e-Curriculum, Volume: 24",
+      "issueCount": 33,
+      "catalogIssueCount": 33,
+      "firstIndexedYear": 2015,
+      "latestIndexedYear": 2026,
+      "articleCount": 872,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1809-3876&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1809-3876&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1809-3876&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 19,
+          "issueCount": 1
+        },
+        {
+          "year": 2025,
+          "articleCount": 95,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 129,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 104,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 79,
+          "issueCount": 4
+        },
+        {
+          "year": 2021,
+          "articleCount": 79,
+          "issueCount": 4
+        },
+        {
+          "year": 2020,
+          "articleCount": 96,
+          "issueCount": 4
+        },
+        {
+          "year": 2019,
+          "articleCount": 79,
+          "issueCount": 4
+        },
+        {
+          "year": 2018,
+          "articleCount": 61,
+          "issueCount": 4
+        },
+        {
+          "year": 2017,
+          "articleCount": 57,
+          "issueCount": 4
+        },
+        {
+          "year": 2016,
+          "articleCount": 66,
+          "issueCount": 4
+        },
+        {
+          "year": 2015,
+          "articleCount": 8,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/1809-3876.json",
+      "officialSiteUrl": "https://revistas.pucsp.br/index.php/curriculum/index",
+      "officialOaiUrl": "https://revistas.pucsp.br/index.php/curriculum/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:27:24.484Z",
+        "dataUrl": "/data/comparisons/1809-3876.json",
+        "officialArticleCount": 1266,
+        "officialInCoverageCount": 977,
+        "matchedCount": 860,
+        "missingCount": 117,
+        "outsideCoverageCount": 289,
+        "educaCoverageStart": 2015,
+        "educaCoverageEnd": 2026,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2005,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2238-1279",
+      "title": "Revista Educação e Cultura Contemporânea",
+      "status": "Ativo",
+      "publisher": "Universidade Estácio de Sá - Programa de Pós-graduação em Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1807-2194",
+      "onlineIssn": "2238-1279",
+      "mission": "A Revista Educação e Cultura Contemporânea (REEDUC) divulga trabalhos inéditos de pesquisadores brasileiros e estrangeiros (em português, inglês, espanhol e francês), ampliando o debate sobre os desafios postos à Educação pelas mudanças que caracterizam a cultura contemporânea. A revista adota periodicidade em fluxo contínuo, assegurando a publicação permanente de novos artigos ao longo do ano.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Revista Educação e Cultura Contemporânea, Volume: 19, Número: 58",
+      "issueCount": 3,
+      "catalogIssueCount": 3,
+      "firstIndexedYear": 2018,
+      "latestIndexedYear": 2022,
+      "articleCount": 54,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2238-1279&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2238-1279&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2238-1279&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2022,
+          "articleCount": 17,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 37,
+          "issueCount": 2
+        }
+      ],
+      "detailsUrl": "/data/journals/2238-1279.json",
+      "officialSiteUrl": "https://mestradoedoutoradoestacio.periodicoscientificos.com.br/index.php/reeduc/about",
+      "officialOaiUrl": "https://mestradoedoutoradoestacio.periodicoscientificos.com.br/index.php/reeduc/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:26:31.746Z",
+        "dataUrl": "/data/comparisons/2238-1279.json",
+        "officialArticleCount": 1095,
+        "officialInCoverageCount": 683,
+        "matchedCount": 53,
+        "missingCount": 630,
+        "outsideCoverageCount": 412,
+        "educaCoverageStart": 2018,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2004,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2238-8346",
+      "title": "Revista Educação e Políticas em Debate",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Uberlândia - Faculdade de Educação - FACED",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2238-8346",
+      "mission": "A REPOD - Revista Educação e Políticas em Debate, tem como objetivo divulgar resultados de pesquisas e experiências acerca da área de políticas públicas de educação e temas afins que apresentem consistência, rigor e originalidade na abordagem científica dos temas. Os conteúdos veiculados destinam-se principalmente a estudiosos e pesquisadores brasileiros e estrangeiros da área de políticas educacionais, mas também aos demais interessados pela área de educação e humanidades em geral.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Educação e Políticas em Debate, Volume: 14, Número: 1",
+      "issueCount": 7,
+      "catalogIssueCount": 7,
+      "firstIndexedYear": 2023,
+      "latestIndexedYear": 2025,
+      "articleCount": 155,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2238-8346&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2238-8346&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2238-8346&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 5,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 79,
+          "issueCount": 3
+        },
+        {
+          "year": 2023,
+          "articleCount": 71,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2238-8346.json",
+      "officialSiteUrl": "https://seer.ufu.br/index.php/revistaeducaopoliticas/%20",
+      "officialOaiUrl": "https://seer.ufu.br/index.php/revistaeducaopoliticas/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:27:18.535Z",
+        "dataUrl": "/data/comparisons/2238-8346.json",
+        "officialArticleCount": 688,
+        "officialInCoverageCount": 301,
+        "matchedCount": 157,
+        "missingCount": 144,
+        "outsideCoverageCount": 387,
+        "educaCoverageStart": 2023,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2012,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "0102-7735",
+      "title": "Revista Educação em Questão",
+      "status": "Ativo",
+      "publisher": "Universidade Federal do Rio Grande do Norte",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0102-7735",
+      "onlineIssn": "1981-1802",
+      "mission": "A Revista Educação em Questão é um periódico do Centro de Educação e do Programa de Pós-Graduação em Educação da Universidade Federal do Rio Grande do Norte (UFRN). É um periódico (on-line), de acesso aberto e fluxo contínuo de publicação, em quatro edições anuais com artigos originais e inéditos na área de Educação (área de conhecimento delimitada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior  CAPES), resultantes de pesquisas científicas, além de resenhas de livros.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Revista Educação em Questão, Volume: 63, Número: 78",
+      "issueCount": 43,
+      "catalogIssueCount": 43,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 451,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0102-7735&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0102-7735&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0102-7735&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.ufrn.br/educacaoemquestao/issue/archive",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1984-686X",
+      "title": "Revista Educação Especial (Online)",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de Santa Maria",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "1984-686X",
+      "mission": "A Revista Educação Especial tem como finalidade veicular somente artigos inéditos na área de Educação Especial, provenientes de pesquisas e práticas articuladas no campo. A Revista é organizada em sessões de Dossiê, Demanda Contínua e Resenha, sendo que os dois primeiros números do ano atendem à demanda do fluxo contínuo e o terceiro número do ano é organizado na forma de Dossiê Temático. A revista tem o Português (Brasil) como idioma principal, mas os textos podem também ser escritos em inglês, espanhol e francês. A Revista Educação Especial não realiza cobranças para submissão de artigos, bem como para sua publicação.",
+      "creationYear": null,
+      "periodicity": "Fluxo contínuo",
+      "latestLabel": "Revista Educação Especial (Online), Volume: 36",
+      "issueCount": 1,
+      "catalogIssueCount": 1,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 73,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1984-686X&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1984-686X&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1984-686X&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.ufsm.br/educacaoespecial/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "1982-7199",
+      "title": "Revista Eletrônica de Educação",
+      "status": "Ativo",
+      "publisher": "Universidade Federal de São Carlos, Programa de Pós-Graduação em Educação",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1982-7199",
+      "onlineIssn": null,
+      "mission": "A Revista Eletrônica de Educação, é uma iniciativa do Programa de Pós-Graduação em Educação da Universidade Federal de São Carlos. O seu principal objetivo é publicar artigos, ensaios, e dossiês sobre temas que contribuam para o recrudescimento do debate educacional, bem como para a divulgação do conhecimento produzido na área. É dirigida a pesquisadores, profissionais e estudantes da Educação. A revista é multilíngue, porém devido às configurações do site, resumo e palavras-chave aparecem apenas nos idiomas Português, Inglês e Espanhol. Os textos em idiomas que não o Português ou o Espanhol poderão ser traduzidos e apresentados na mesma edição.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Eletrônica de Educação, Volume: 16",
+      "issueCount": 16,
+      "catalogIssueCount": 16,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 438,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1982-7199&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1982-7199&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1982-7199&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "http://www.reveduc.ufscar.br/",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "0104-026x",
+      "title": "Revista Estudos Feministas",
+      "status": "Ativo",
+      "publisher": "Centro de Filosofia e Ciências Humanas e Centro de Comunicação e Expressão da Universidade Federal de Santa Catarina",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "0104-026X",
+      "onlineIssn": "1806-9584",
+      "mission": "Divulgar a vasta produção de conhecimento no campo dos estudos feministas e de gênero, buscando dar subsídios aos debates teóricos nessa área, bem como instrumentos analíticos que possam contribuir às práticas dos movimentos de mulheres.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Estudos Feministas, Volume: 34, Número: 1",
+      "issueCount": 87,
+      "catalogIssueCount": 87,
+      "firstIndexedYear": 1992,
+      "latestIndexedYear": 2026,
+      "articleCount": 2254,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=0104-026x&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=0104-026x&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=0104-026x&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 33,
+          "issueCount": 1
+        },
+        {
+          "year": 2025,
+          "articleCount": 77,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 71,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 95,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 113,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 119,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 117,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 107,
+          "issueCount": 1
+        },
+        {
+          "year": 2018,
+          "articleCount": 91,
+          "issueCount": 1
+        },
+        {
+          "year": 2017,
+          "articleCount": 85,
+          "issueCount": 1
+        },
+        {
+          "year": 2016,
+          "articleCount": 73,
+          "issueCount": 1
+        },
+        {
+          "year": 2015,
+          "articleCount": 69,
+          "issueCount": 1
+        },
+        {
+          "year": 2014,
+          "articleCount": 74,
+          "issueCount": 1
+        },
+        {
+          "year": 2013,
+          "articleCount": 71,
+          "issueCount": 1
+        },
+        {
+          "year": 2012,
+          "articleCount": 64,
+          "issueCount": 1
+        },
+        {
+          "year": 2011,
+          "articleCount": 69,
+          "issueCount": 1
+        },
+        {
+          "year": 2010,
+          "articleCount": 62,
+          "issueCount": 1
+        },
+        {
+          "year": 2009,
+          "articleCount": 60,
+          "issueCount": 1
+        },
+        {
+          "year": 2007,
+          "articleCount": 62,
+          "issueCount": 1
+        },
+        {
+          "year": 2006,
+          "articleCount": 58,
+          "issueCount": 1
+        },
+        {
+          "year": 2005,
+          "articleCount": 59,
+          "issueCount": 1
+        },
+        {
+          "year": 2004,
+          "articleCount": 37,
+          "issueCount": 1
+        },
+        {
+          "year": 2003,
+          "articleCount": 58,
+          "issueCount": 1
+        },
+        {
+          "year": 2002,
+          "articleCount": 45,
+          "issueCount": 1
+        },
+        {
+          "year": 2001,
+          "articleCount": 48,
+          "issueCount": 1
+        },
+        {
+          "year": 2000,
+          "articleCount": 48,
+          "issueCount": 1
+        },
+        {
+          "year": 1999,
+          "articleCount": 40,
+          "issueCount": 2
+        },
+        {
+          "year": 1998,
+          "articleCount": 41,
+          "issueCount": 1
+        },
+        {
+          "year": 1997,
+          "articleCount": 43,
+          "issueCount": 1
+        },
+        {
+          "year": 1996,
+          "articleCount": 48,
+          "issueCount": 1
+        },
+        {
+          "year": 1995,
+          "articleCount": 55,
+          "issueCount": 1
+        },
+        {
+          "year": 1994,
+          "articleCount": 66,
+          "issueCount": 1
+        },
+        {
+          "year": 1993,
+          "articleCount": 75,
+          "issueCount": 2
+        },
+        {
+          "year": 1992,
+          "articleCount": 21,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/0104-026x.json",
+      "officialSiteUrl": "https://periodicos.ufsc.br/index.php/ref/about",
+      "officialOaiUrl": "https://periodicos.ufsc.br/index.php/ref/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:16:07.357Z",
+        "dataUrl": "/data/comparisons/0104-026x.json",
+        "officialArticleCount": 1936,
+        "officialInCoverageCount": 1936,
+        "matchedCount": 1623,
+        "missingCount": 313,
+        "outsideCoverageCount": 0,
+        "educaCoverageStart": 1992,
+        "educaCoverageEnd": 2026,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 1992,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2237-9460",
+      "title": "Revista Exitus",
+      "status": "Ativo",
+      "publisher": "Universidade Federal do Oeste do Pará",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2237-9460",
+      "mission": "A Revista Exitus é publicada trimestralmente pela Universidade Federal do Oeste do Pará/UFOPA, sendo que o lançamento de cada número ocorre respectivamente nos meses de Janeiro, Abril, Julho e Outubro de cada ano. Tem como metas incentivar o debate e propiciar a divulgação da produção científica, como veículo de diálogo permanente entre os profissionais da Educação. Assim, seu projeto editorial visa contribuir para a difusão do conhecimento na área da educação, por meio de temáticas regionais, nacionais e internacionais. Publica trabalhos originais, referentes à área da Educação sob diferentes campos da pesquisa como: Estudos em Formação Docente, Práticas Pedagógicas, Políticas e Gestão Educacional, dentre outras temáticas da Educação. São aceitos trabalhos em português, inglês e espanhol, na forma de conferências, artigos e resenhas.",
+      "creationYear": null,
+      "periodicity": "Trimestral",
+      "latestLabel": "Revista Exitus, Volume: 15",
+      "issueCount": 17,
+      "catalogIssueCount": 17,
+      "firstIndexedYear": 2017,
+      "latestIndexedYear": 2025,
+      "articleCount": 555,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2237-9460&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2237-9460&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2237-9460&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2025,
+          "articleCount": 58,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 67,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 78,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 21,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 33,
+          "issueCount": 1
+        },
+        {
+          "year": 2020,
+          "articleCount": 114,
+          "issueCount": 1
+        },
+        {
+          "year": 2019,
+          "articleCount": 101,
+          "issueCount": 5
+        },
+        {
+          "year": 2018,
+          "articleCount": 42,
+          "issueCount": 3
+        },
+        {
+          "year": 2017,
+          "articleCount": 41,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2237-9460.json",
+      "officialSiteUrl": "https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/about",
+      "officialOaiUrl": "https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:28:25.165Z",
+        "dataUrl": "/data/comparisons/2237-9460.json",
+        "officialArticleCount": 870,
+        "officialInCoverageCount": 726,
+        "matchedCount": 556,
+        "missingCount": 170,
+        "outsideCoverageCount": 144,
+        "educaCoverageStart": 2017,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2011,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2446-9424",
+      "title": "Revista Internacional de Educação Superior",
+      "status": "Ativo",
+      "publisher": "Universidade Estadual de Campinas Faculdade de Educação Grupo de Estudos e Pesquisas em Educação Superior",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2446-9424",
+      "mission": "A Revista Internacional de Educação Superior, publicação do Grupo de Pesquisa GIEPES da Faculdade de Educação da Universidade Estadual de Campinas (Campinas, SP) em parceria com a Rede Ibero-americana de Estudos e Pesquisas em Políticas e Processos de Educação Superior - RIEPPES - Universidade do Oeste de Santa Catarinense, tem como missão socializar a produção de estudos e pesquisas científicas, de caráter teórico ou empírico, na área da educação superior. É uma publicação eletrônica que se dedica à publicação de artigos da comunidade científica nacional e internacional que investiga questões de interesse do campo da educação superior. Visa contribuir na formação do pesquisador da área de Educação Superior por meio da divulgação e disseminação de pesquisas e estudos realizados por educadores, vinculados às instituições nacionais e internacionais. São publicados artigos, relatos de experiência, comunicações, pesquisas e ensaios de autores avaliados por pares, especialmente convidados pelo Conselho Editorial, nos idiomas português/inglês ou espanhol/inglês.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Internacional de Educação Superior, Volume: 10",
+      "issueCount": 3,
+      "catalogIssueCount": 3,
+      "firstIndexedYear": 2022,
+      "latestIndexedYear": 2024,
+      "articleCount": 131,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2446-9424&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2446-9424&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2446-9424&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2024,
+          "articleCount": 42,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 46,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 43,
+          "issueCount": 1
+        }
+      ],
+      "detailsUrl": "/data/journals/2446-9424.json",
+      "officialSiteUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/riesup/about",
+      "officialOaiUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/riesup/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T16:40:24.542Z",
+        "dataUrl": "/data/comparisons/2446-9424.json",
+        "officialArticleCount": 464,
+        "officialInCoverageCount": 135,
+        "matchedCount": 131,
+        "missingCount": 4,
+        "outsideCoverageCount": 329,
+        "educaCoverageStart": 2022,
+        "educaCoverageEnd": 2024,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2015,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "2178-2679",
+      "title": "Revista Práxis Educacional",
+      "status": "Ativo",
+      "publisher": "Universidade Estadual do Sudoeste da Bahia",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2178-2679",
+      "mission": "Divulgar pesquisas e estudos vinculados ao campo da educação, desenvolvidos por pesquisadores de diferentes contextos educacionais do Brasil e do exterior",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Revista Práxis Educacional, Volume: 22, Número: 53",
+      "issueCount": 13,
+      "catalogIssueCount": 13,
+      "firstIndexedYear": 2020,
+      "latestIndexedYear": 2026,
+      "articleCount": 389,
+      "articleCountComplete": true,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2178-2679&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2178-2679&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2178-2679&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": [
+        {
+          "year": 2026,
+          "articleCount": 15,
+          "issueCount": 1
+        },
+        {
+          "year": 2025,
+          "articleCount": 52,
+          "issueCount": 1
+        },
+        {
+          "year": 2024,
+          "articleCount": 50,
+          "issueCount": 1
+        },
+        {
+          "year": 2023,
+          "articleCount": 28,
+          "issueCount": 1
+        },
+        {
+          "year": 2022,
+          "articleCount": 37,
+          "issueCount": 1
+        },
+        {
+          "year": 2021,
+          "articleCount": 113,
+          "issueCount": 5
+        },
+        {
+          "year": 2020,
+          "articleCount": 94,
+          "issueCount": 3
+        }
+      ],
+      "detailsUrl": "/data/journals/2178-2679.json",
+      "officialSiteUrl": "https://periodicos2.uesb.br/index.php/praxis/about",
+      "officialOaiUrl": "https://periodicos2.uesb.br/index.php/praxis/oai",
+      "officialSourceStatus": "oai-ready",
+      "articleCountPartial": false,
+      "comparison": {
+        "status": "complete",
+        "comparedAt": "2026-10-07T15:30:58.236Z",
+        "dataUrl": "/data/comparisons/2178-2679.json",
+        "officialArticleCount": 1257,
+        "officialInCoverageCount": 555,
+        "matchedCount": 391,
+        "missingCount": 164,
+        "outsideCoverageCount": 702,
+        "educaCoverageStart": 2020,
+        "educaCoverageEnd": null,
+        "educaCollectionStatus": "complete",
+        "officialCollectionStatus": "complete",
+        "officialCoverageStart": 2005,
+        "officialCoverageEnd": 2026
+      }
+    },
+    {
+      "id": "1982-0305",
+      "title": "Revista Teias",
+      "status": "Ativo",
+      "publisher": "Programa de Pós-Graduação em Educação - ProPEd/UERJ",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1518-5370",
+      "onlineIssn": "1982-0305",
+      "mission": "Teias tem como escopo a publicação de trabalhos científicos/acadêmicos originais, o incentivo à pesquisa e ao debate da área da educação, centrados nas relações com a sociedade. Publica artigos inéditos de autores/as brasileiros/as ou estrangeiros/as. Os trabalhos encaminhados para publicação em meios eletrônicos  inéditos  não podem ser apresentados simultaneamente para avaliação em outro periódico. Organiza-se trimestralmente por seção temática, em que se aceitam apenas trabalhos alinhados ao campo de pertinência do tema proposto; além dessa, recebe artigos para as demais seções próprias da Revista em demanda contínua.",
+      "creationYear": null,
+      "periodicity": "Trimestral",
+      "latestLabel": "Revista Teias, Volume: 26, Número: 82",
+      "issueCount": 39,
+      "catalogIssueCount": 39,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 986,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=1982-0305&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=1982-0305&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=1982-0305&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://www.e-publicacoes.uerj.br/revistateias/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2177-6059",
+      "title": "Roteiro",
+      "status": "Ativo",
+      "publisher": "Universidade do Oeste de Santa Catarina",
+      "area": null,
+      "printIssn": null,
+      "onlineIssn": "2177-6059",
+      "mission": "Promover e socializar a produçao de estudos e pesquisas científico-acadêmicos, de caráter teórico ou empírico, na área da educação",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Roteiro, Volume: 48",
+      "issueCount": 32,
+      "catalogIssueCount": 32,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 464,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2177-6059&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2177-6059&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2177-6059&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://periodicos.unoesc.edu.br/roteiro/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    },
+    {
+      "id": "2318-1982",
+      "title": "Série-Estudos",
+      "status": "Ativo",
+      "publisher": "Universidade Católica Dom Bosco",
+      "area": "HUMAN SCIENCES",
+      "printIssn": "1414-5138",
+      "onlineIssn": "2318-1982",
+      "mission": "A Revista Série-Estudos publica artigos científicos relacionados a área de educação de autores brasileiros e estrangeiros. Os artigos podem ser submetidos na língua portuguesa ou em língua estrangeira. A missão da Revista é contribuir para a divulgação do conhecimento científico na área de educação. Os artigos podem ser enviados como demanda contínua ou em forma de Dossiê. Todos os artigos serão avaliados por dois consultores ad hoc. Em caso de pareceres discrepantes, o artigo será enviado para um terceiro consultor.",
+      "creationYear": null,
+      "periodicity": null,
+      "latestLabel": "Série-Estudos, Volume: 30, Número: 70",
+      "issueCount": 36,
+      "catalogIssueCount": 36,
+      "firstIndexedYear": null,
+      "latestIndexedYear": null,
+      "articleCount": 515,
+      "articleCountComplete": false,
+      "failedIssuePages": 0,
+      "languages": null,
+      "city": null,
+      "country": null,
+      "sourceUrl": "https://educa.fcc.org.br/scielo.php?script=sci_serial&pid=2318-1982&lng=pt&nrm=iso",
+      "issuesUrl": "https://educa.fcc.org.br/scielo.php?script=sci_issues&pid=2318-1982&lng=pt&nrm=iso",
+      "aboutUrl": "https://educa.fcc.org.br/journal_link.php?pid=2318-1982&lng=pt&nrm=iso&page=about",
+      "yearlyCounts": null,
+      "detailsUrl": null,
+      "officialSiteUrl": "https://www.serie-estudos.ucdb.br/serie-estudos/about",
+      "officialOaiUrl": null,
+      "officialSourceStatus": "site-found"
+    }
+  ]
+}
