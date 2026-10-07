@@ -49,7 +49,7 @@ def show_articles(rows, key):
         return
     st.dataframe(
         rows,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         column_config={"Link": st.column_config.LinkColumn("Artigo")},
     )
@@ -107,7 +107,7 @@ with overview_tab:
         }
         for j in filtered
     ]
-    st.dataframe(rows, use_container_width=True, hide_index=True)
+    st.dataframe(rows, width="stretch", hide_index=True)
     st.download_button("Baixar tabela em CSV", csv_bytes(rows), "atlas-educa-periodicos.csv", "text/csv")
 
 with journal_tab:
@@ -129,7 +129,7 @@ with journal_tab:
         years = detail.get("years") or []
         counts = [{"Ano": y["year"], "Artigos": y["articleCount"]} for y in sorted(years, key=lambda y: y["year"])]
         if counts:
-            st.bar_chart(counts, x="Ano", y="Artigos", use_container_width=True)
+            st.bar_chart(counts, x="Ano", y="Artigos", width="stretch")
         year_options = sorted({y["year"] for y in years}, reverse=True)
         year = st.selectbox("Ano", ["Todos"] + year_options)
         query = st.text_input("Buscar título, autor ou DOI", key=f"article-search-{selected_id}").casefold().strip()
